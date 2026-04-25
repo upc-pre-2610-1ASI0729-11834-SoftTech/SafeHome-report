@@ -1010,7 +1010,14 @@ Contenido de la sección.
 
 ## 3.2. Impact Mapping
 
-Contenido de la sección.
+<p align="center">
+  <img src="assets/Impact-Mapping.png" alt="Impact Mapping de SafeHome" width="850"/>
+</p>
+
+<p align="center">
+  <em>Nota: Elaboración propia.</em>
+</p>
+
 
 ## 3.3. Product Backlog
 
