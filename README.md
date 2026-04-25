@@ -420,8 +420,42 @@ Contenido de la sección.
 
 ### 2.3.2. User Task Matrix
 
-Contenido de la sección.
+## Segmento objetivo 1: Jóvenes Adultos Independientes
 
+| Tarea del Usuario                                                                 | Frecuencia | Importancia |
+|----------------------------------------------------------------------------------|------------|-------------|
+| Verificar que puertas, ventanas y accesos queden bien asegurados antes de salir | Alta       | Alta        |
+| Supervisar el estado del hogar cuando no se encuentra presente                  | Alta       | Alta        |
+| Detectar ingresos no autorizados o movimientos sospechosos                      | Alta       | Alta        |
+| Confirmar que no existan incidentes internos (humo, fugas, fallas)              | Media      | Alta        |
+| Revisar rápidamente si todo está en orden al regresar a casa                    | Alta       | Media       |
+| Coordinar una acción inmediata ante una alerta o situación anómala              | Media      | Alta        |
+
+---
+
+## Segmento objetivo 2: Familias Urbanas
+
+| Tarea del Usuario                                                                 | Frecuencia | Importancia |
+|----------------------------------------------------------------------------------|------------|-------------|
+| Verificar que los accesos del hogar estén protegidos día y noche                | Alta       | Alta        |
+| Supervisar constantemente el estado del hogar cuando la familia no está reunida | Alta       | Alta        |
+| Detectar robos, intentos de ingreso o situaciones sospechosas                   | Alta       | Alta        |
+| Identificar incidentes internos (humo, fugas de gas, fallas eléctricas)         | Alta       | Alta        |
+| Coordinar una respuesta rápida para proteger a los integrantes del hogar        | Alta       | Alta        |
+| Revisar eventos o incidentes ocurridos en la vivienda                           | Media      | Alta        |
+
+---
+
+## Segmento objetivo 3: Propietarios de Inmuebles en Alquiler
+
+| Tarea del Usuario                                                                 | Frecuencia | Importancia |
+|----------------------------------------------------------------------------------|------------|-------------|
+| Supervisar el estado general del inmueble ocupado por terceros                  | Alta       | Alta        |
+| Detectar daños, usos inadecuados o situaciones anómalas                         | Alta       | Alta        |
+| Verificar incidentes como fugas, humo o problemas de servicios básicos          | Alta       | Alta        |
+| Controlar el uso adecuado de recursos (agua, luz, gas)                          | Alta       | Alta        |
+| Revisar incidentes para prevenir daños mayores                                  | Alta       | Alta        |
+| Confirmar seguridad frente a accesos no autorizados                             | Media      | Alta        |
 ### 2.3.3. User Journey Mapping
 
 Contenido de la sección.
