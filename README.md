@@ -775,7 +775,35 @@ En desktop, la interfaz aprovecha mayor ancho para mostrar contenido en paralelo
 
 ### 4.3.1. Landing Page Wireframe
 
-Contenido de la sección.
+Esta sección presenta los wireframes del Landing Page para Desktop Web Browser y Mobile Web Browser. La guía indica que aquí debe evidenciarse la aplicación de principios de diseño, arquitectura de información y organización del contenido.
+ 
+Los wireframes del Landing Page de SafeHome están compuestos por cuatro vistas principales:
+ 
+- 01. Landing Inicio
+- 02. Landing Servicios
+- 03. Landing Planes
+- 04. Iniciar sesión
+**Wireframe Desktop**
+ 
+01. Landing Inicio
+El wireframe muestra una barra superior con navegación principal y, debajo, un bloque principal dividido en dos áreas. En la primera se ubican el nombre del producto, una breve descripción y el botón Empieza ahora. En la segunda se coloca una ilustración asociada al hogar y accesos complementarios.
+
+![](./assets/Landing-imagen1.png)
+ 
+3. Landing Servicios
+El wireframe presenta una sección dedicada a los servicios del sistema. Se observa un bloque con título, subtítulo e íconos que representan funciones como detección, control y prevención. A un lado se incorpora una imagen de apoyo.
+
+![](./assets/Landing-imagen2.png)
+ 
+5. Landing Planes
+El wireframe organiza la comparación comercial mediante dos bloques: FREE (essential) y PREMIUM. Cada uno contiene lista resumida de características, precio y botón de acción.
+
+![](./assets/Landing-imagen3.png)
+ 
+7. Contáctanos
+El wireframe incorpora la pantalla de contacto como parte del flujo del Landing Page. Se observa un formulario centrado con campos sobre datos personales, correo electrónico y mensaje.
+
+![](./assets/Landing-imagen4.png)
 
 ### 4.3.2. Landing Page Mock-up
 
