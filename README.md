@@ -1009,12 +1009,49 @@ Contenido de la sección.
 - **Entonces** informa la indisponibilidad  
 
 ## 3.2. Impact Mapping
+<p align="center">
+  <img src="assets/Impact-Mapping.png" alt="Impact Mapping de SafeHome" width="850"/>
+</p>
 
-Contenido de la sección.
+<p align="center">
+  <em>Nota: Elaboración propia.</em>
+</p>
+
 
 ## 3.3. Product Backlog
 
-Contenido de la sección.
+| # Orden | User Story ID | Descripción | Story Points |
+|---|---|---|---|
+| 1 | HU11 | Registrar dispositivos de seguridad en el sistema | 8 |
+| 2 | HU16 | Visualizar eventos de seguridad en tiempo real | 8 |
+| 3 | HU20 | Visualizar estado general del sistema de seguridad | 8 |
+| 4 | HU26 | Validar acceso seguro a funcionalidades del sistema | 8 |
+| 5 | HU28 | Almacenar eventos de seguridad generados | 5 |
+| 6 | HU03 | Explorar dispositivos o servicios de seguridad disponibles | 5 |
+| 7 | HU06 | Navegar entre secciones del sistema web | 5 |
+| 8 | HU07 | Acceder desde dispositivos móviles responsive | 5 |
+| 9 | HU12 | Visualizar dispositivos registrados | 5 |
+| 10 | HU13 | Activar o desactivar dispositivos de seguridad | 5 |
+| 11 | HU17 | Visualizar detalles de eventos de seguridad | 5 |
+| 12 | HU18 | Marcar eventos como atendidos | 5 |
+| 13 | HU21 | Filtrar eventos de seguridad | 5 |
+| 14 | HU24 | Recibir notificaciones de alertas | 5 |
+| 15 | HU25 | Visualizar ubicación del evento de seguridad | 5 |
+| 16 | HU29 | Mantener consistencia de datos del sistema | 5 |
+| 17 | HU30 | Garantizar disponibilidad del sistema | 5 |
+| 18 | HU01 | Visualizar propuesta de valor del sistema | 3 |
+| 19 | HU02 | Ver beneficios del sistema de seguridad | 3 |
+| 20 | HU08 | Identificar llamadas a la acción | 3 |
+| 21 | HU09 | Entender cómo funciona el sistema | 3 |
+| 22 | HU14 | Visualizar estado de seguridad del hogar | 3 |
+| 23 | HU15 | Recibir alertas de seguridad | 3 |
+| 24 | HU19 | Eliminar eventos de seguridad | 3 |
+| 25 | HU22 | Ordenar eventos de seguridad | 3 |
+| 26 | HU23 | Visualizar historial de eventos | 3 |
+| 27 | HU27 | Controlar tiempo de respuesta del sistema | 3 |
+| 28 | HU05 | Visualizar información de contacto | 2 |
+| 29 | HU10 | Ver preguntas frecuentes | 2 |
+| 30 | HU04 | Visualizar testimonios | 2 |
 
 ---
 
