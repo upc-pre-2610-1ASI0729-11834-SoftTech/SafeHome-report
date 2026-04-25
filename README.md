@@ -940,7 +940,65 @@ sistema no solo reaccione, sino que evolucione según los patrones detectados po
 
 ## 2.4. Big Picture Event Storming
 
-Contenido de la sección.
+ [Ver en Miro](https://miro.com/app/board/uXjVJeUTlWk=/?share_link_id=671299579643)
+<p align="center">
+ <img src="assets/bigpicture.png" width="500"/>
+</p>
+
+El sistema opera como un ecosistema integrado donde el Usuario y el Sensor IoT son los 
+actores principales. El flujo comienza con el registro del usuario en la aplicación móvil, 
+un proceso crítico que busca vincular la identidad del cliente con su ubicación física 
+mediante la Google Maps API. Una vez configurada la cuenta, el usuario sincroniza el hardware 
+mediante el escaneo de un código QR, estableciendo un puente digital que permite al sensor 
+iniciar el monitoreo ambiental y el envío constante de telemetría hacia la infraestructura 
+de Google Cloud.
+
+---
+
+### Comandos y Ejecución Técnica
+
+La operatividad se basa en comandos específicos que transforman las acciones del usuario en 
+estados del sistema. Tras el encendido de los sensores, el dispositivo entra en un estado de 
+vigilancia activa. Cuando el hardware procesa una lectura fuera de los parámetros normales, 
+el sistema ejecuta el comando de disparo del protocolo de emergencia de forma autónoma. Este 
+bloque técnico es el corazón del servicio, pues coordina la lógica interna necesaria para 
+transformar una señal física en una respuesta digital inmediata antes de informar a los 
+sistemas de mensajería externos.
+
+---
+
+### Eventos y Notificación de Crisis
+
+Los eventos marcan los hitos de éxito o alerta dentro del diagrama. El evento más crítico es 
+la **"Anomalía detectada"**, que actúa como el disparador para una arquitectura de 
+comunicación multicanal. A través de la **Twilio API**, el sistema garantiza el envío de un 
+SMS, mientras que **Firebase Cloud Messaging** gestiona las notificaciones push. Este flujo 
+de eventos asegura que el usuario sea notificado por diversas vías, culminando en la 
+recepción de la alerta de emergencia en su dispositivo móvil para una respuesta oportuna.
+
+---
+
+### Monetización y Ciclo de Pago
+
+La fase final del diagrama describe el modelo de negocio y la entrega de valor recurrente. 
+El usuario tiene la opción de ejecutar el comando de pago para acceder a un plan Premium, 
+proceso gestionado externamente por la pasarela **Niubiz**. Una vez procesado el pago, se 
+activan eventos de confirmación que habilitan funciones avanzadas, como la generación de 
+reportes mensuales detallados. Este cierre de ciclo no solo monetiza la solución, sino que 
+refuerza la confianza del cliente mediante la entrega de datos históricos sobre su seguridad.
+
+---
+
+### Problemas y Oportunidades Identificados
+
+A lo largo del flujo se presentan **"hotspots"** que señalan desafíos críticos de diseño. 
+Existe una preocupación latente por la validación de identidad para prevenir fraudes durante 
+el alta del servicio, así como una vulnerabilidad técnica ante posibles cortes de energía o 
+señal WiFi que podrían silenciar al sensor.
+
+No obstante, estas debilidades representan oportunidades para implementar sistemas de 
+respaldo (como baterías internas o redes de baja frecuencia) y mejorar la robustez de la 
+plataforma, convirtiendo la gestión de estas crisis en una ventaja competitiva del producto.
 
 ## 2.5. Ubiquitous Language
 
