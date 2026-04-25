@@ -878,7 +878,7 @@ en reportes de valor que generan confianza y fomentan la recomendación del serv
 ### Mapa de viaje: Familias Urbanas
 
 <p align="center">
-  <img src="assets/empathy2.png" width="250"/>
+  <img src="assets/empathy2.png" width="500"/>
 </p> 
 Este mapa de viaje para Familias Urbanas se enfoca en la protección del hogar y la 
 privacidad, complementando el flujo técnico anterior con las siguientes etapas:
@@ -904,7 +904,7 @@ privacidad, complementando el flujo técnico anterior con las siguientes etapas:
 ### Mapa de viaje: Propietarios de inmuebles en alquiler
 
 <p align="center">
-  <img src="assets/empathy3.png" width="250"/>
+  <img src="assets/empathy3.png" width="500"/>
 </p> 
 Este esquema detalla el ciclo operativo de gestión, que representa la interacción cotidiana 
 y lógica del usuario con la plataforma una vez superada la instalación. El proceso comienza 
