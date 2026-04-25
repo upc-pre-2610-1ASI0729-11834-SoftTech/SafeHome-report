@@ -861,7 +861,17 @@ Contenido de la sección.
 
 ### 2.3.4. Empathy Mapping
 
-Contenido de la sección.
+<p align="center">
+  <img src="assets/empathy_mapping1.png" width="500"/>
+</p>
+<p align="center">
+  <img src="assets/empathy_mapping2.png" width="500"/>
+</p>
+<p align="center">
+ <img src="assets/empathy_mapping3.png" width="500"/>
+</p>
+
+
 
 ## 2.4. Big Picture Event Storming
 
