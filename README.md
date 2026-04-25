@@ -532,7 +532,66 @@ En el módulo de eventos e historial se aplicará una categorización cronológi
 
 ### 4.2.2. Labeling Systems
 
-Contenido de la sección.
+El sistema de etiquetado de SafeHome se define con base en claridad, brevedad y consistencia. Las etiquetas se redactan con el menor número de palabras posible para evitar ambigüedad y reducir el tiempo de reconocimiento por parte del usuario. Este criterio sigue la indicación de representar los conjuntos de información mediante etiquetas simples y asociaciones claras entre secciones, acciones y contenidos.
+ 
+**Landing Page**
+ 
+En el Landing Page se emplean etiquetas de exploración y conversión. Las principales son:
+ 
+- Inicio
+- Servicios
+- Ver planes
+- Iniciar sesión
+Estas etiquetas aparecen en la navegación principal y representan secciones concretas del contenido. "Inicio" remite a la portada del producto. "Servicios" agrupa las funcionalidades principales ofrecidas por la plataforma. "Ver planes" dirige a la comparación comercial entre opciones disponibles. "Iniciar sesión" conecta al visitante con la parte operativa del sistema.
+ 
+Dentro del contenido también se utilizan etiquetas breves asociadas al producto y a la conversión:
+ 
+- SafeHome
+- Monitoreo inteligente 360°
+- FREE (essential)
+- PREMIUM
+- Empieza ahora
+- Comparar planes
+Estas etiquetas no describen en exceso; solo identifican bloques, beneficios o acciones principales.
+ 
+**Web Application**
+ 
+En la Web Application se utilizan etiquetas operativas orientadas a módulos. Las principales son:
+ 
+- Inicio
+- Cámaras
+- Dispositivos
+- Eventos
+- Alertas
+- Historial
+- Configuración
+- Cerrar sesión
+Estas etiquetas corresponden a grupos funcionales del sistema y permiten acceder a vistas específicas del panel de control. Cada etiqueta mantiene relación directa con el contenido mostrado dentro del módulo.
+ 
+**Formularios y acciones**
+ 
+En formularios y acciones de acceso se usan etiquetas cortas y reconocibles:
+ 
+- Correo electrónico
+- Contraseña
+- Recordarme
+- ¿Olvidaste tu contraseña?
+- Crear cuenta
+- Iniciar sesión
+En botones y CTAs se mantiene la misma lógica:
+ 
+- Empieza ahora
+- Ver planes
+- Comparar planes
+- Crear cuenta
+- Iniciar sesión
+**Principios aplicados**
+ 
+- Mínimo número de palabras: cada etiqueta nombra una sección o acción sin explicaciones largas.
+- Consistencia semántica: el mismo concepto mantiene el mismo nombre en toda la interfaz.
+- Diferenciación por contexto: en el Landing Page predominan etiquetas de exploración; en la aplicación predominan etiquetas operativas.
+- Relación directa etiqueta-acción: el usuario puede anticipar qué encontrará al hacer clic.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
