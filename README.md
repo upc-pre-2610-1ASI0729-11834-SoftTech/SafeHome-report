@@ -684,7 +684,53 @@ En alertas y eventos, los resultados se ordenan por criterio temporal. En cámar
 
 ### 4.2.5. Navigation Systems
 
-Contenido de la sección.
+El sistema de navegación de SafeHome define las acciones y técnicas mediante las cuales el usuario recorre el Landing Page y accede a las funciones de la Web Application. Esta sección debe explicar cómo los usuarios irán avanzando por el contenido y cómo las rutas principales apoyan el cumplimiento de sus objetivos.
+ 
+**Landing Page**
+ 
+El Landing Page utiliza un **menú superior visible** con las siguientes opciones:
+ 
+- **Inicio**
+- **Servicios**
+- **Ver planes**
+- **Iniciar sesión**
+Esta navegación superior permite acceso directo a las partes principales del sitio y evita menús profundos. El usuario puede desplazarse entre secciones clave del producto sin abandonar el flujo general de exploración.
+ 
+Técnicas de navegación en el Landing Page:
+ 
+- **Navegación global superior:** se mantiene visible en la parte superior y concentra las rutas principales de exploración.
+- **Navegación secuencial por scroll:** el contenido se organiza verticalmente desde la presentación del producto hasta la comparación de planes y el acceso a login.
+- **CTA contextuales:** botones como **Empieza ahora** y **Ver planes** aceleran el avance hacia acciones de conversión.
+**Web Application**
+ 
+La Web Application utiliza un **menú lateral persistente** para el acceso a módulos. Las opciones principales observadas en el sistema son:
+ 
+- **Inicio**
+- **Cámaras**
+- **Dispositivos**
+- **Eventos**
+- **Alertas**
+- **Historial**
+- **Configuración**
+- **Cerrar sesión**
+Esta navegación lateral mantiene visibles los módulos más importantes del sistema mientras el usuario opera dentro del dashboard. El cambio entre secciones se realiza sin romper el contexto general del panel.
+ 
+Técnicas de navegación en la Web Application:
+ 
+- **Sidebar persistente:** permite pasar de un módulo a otro de forma directa.
+- **Dashboard como nodo principal:** la vista de inicio concentra accesos rápidos, estados generales y resumen del sistema.
+- **Jerarquía por prioridad operativa:** las funciones relacionadas con monitoreo, cámaras y alertas se ubican en primer nivel.
+**Mobile Web**
+ 
+En la versión mobile del Landing Page, la navegación mantiene las mismas opciones principales, pero reorganizadas en un formato compacto y de lectura rápida. La estructura sigue siendo secuencial y vertical, priorizando scroll continuo, botones amplios y bloques apilados.
+ 
+**Criterios aplicados**
+ 
+- pocas opciones por nivel;
+- rutas directas;
+- navegación visible;
+- estructura consistente entre desktop y mobile;
+- prioridad a acciones principales y módulos clave.
 
 ## 4.3. Landing Page UI Design
 
