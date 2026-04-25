@@ -444,7 +444,36 @@ Contenido de la sección.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Contenido de la sección.
+
+Durante el Sprint 1, el equipo SoftTech trabajó de manera colaborativa en la primera versión de la Landing Page de SafeHome. Para ello, se utilizó GitHub como plataforma de control de versiones, permitiendo registrar los aportes de cada integrante mediante commits individuales.
+
+| Integrante | Actividad |
+|---|---|
+| Briguite Eryka Carhuaz Centeno (U20241D932) | Implementación de la primera versión del archivo HTML para las secciones principales de la Landing Page. |
+| Jaime Forcelledo, Gonzalo Alexander (U202319329) | Desarrollo de la primera versión de estilos de la página mediante CSS. |
+| Mauricio Jared Padilla Merino (U201911393) | Implementación del código JavaScript para el cambio de idioma y animaciones de la Landing Page. |
+| Valeria Alexandra Rojas Gómez (U202411373) | Implementación de la segunda versión del archivo HTML, agregación de archivos para el cambio de idioma y desarrollo del CSS responsive. |
+| Pillaca Vidal, Luis Ángel (U202315654) | Desarrollo de la segunda versión de estilos de la página. |
+
+Como se puede observar en la siguiente captura, el equipo colaboró en la creación de la primera versión de la Landing Page utilizando tecnologías open-source como HTML, CSS y JavaScript. Además, GitHub permitió evidenciar la participación de los integrantes mediante commits, contributors y el historial de cambios del repositorio.
+
+<p align="center">
+  <img src="assets/Git-Repository-Contributors1.png" alt="Contributors del repositorio SafeHome Landing Page" width="750"/>
+</p>
+
+Asimismo, se evidencia la distribución de contribuciones realizadas por cada integrante durante el Sprint 1. Esta información permite visualizar la participación del equipo en el desarrollo del proyecto y sustentar el trabajo colaborativo realizado en el repositorio.
+
+<p align="center">
+  <img src="assets/Git-Repository-Contributors2.png" alt="Insights de contributors del repositorio SafeHome Landing Page" width="750"/>
+</p>
+
+| Integrante | Usuario de GitHub |
+|---|---|
+| Briguite Eryka Carhuaz Centeno (U20241D932) | briicarhuaz |
+| Jaime Forcelledo, Gonzalo Alexander (U202319329) | gonzalojaimeforcelledo |
+| Mauricio Jared Padilla Merino (U201911393) | MauricioPadilla07 |
+| Valeria Alexandra Rojas Gómez (U202411373) | ValeriaAler |
+| Pillaca Vidal, Luis Ángel (U202315654) | RiBlankRam |
 
 ---
 
