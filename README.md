@@ -338,9 +338,77 @@ Contenido de la sección.
 
 Contenido de la sección.
 
-### 2.2.3. Análisis de entrevistas
+## 2.2.3. Análisis de entrevistas
 
-Contenido de la sección.
+### Análisis Segmento 1: Jóvenes adultos independientes
+
+Los entrevistados que viven en ciudades con menor nivel de criminalidad indicaron que no 
+consideran prioritaria la seguridad contra robos, ya que cuentan con vigilancia local. Sin 
+embargo, manifestaron preocupación por riesgos domésticos como inundaciones, fugas de gas 
+o accidentes eléctricos, especialmente cuando hay niños o cuando la vivienda queda sola. 
+Valoraron positivamente un sistema inteligente que permita anticipar incidentes mediante 
+sensores, destacando la importancia de la certificación tecnológica, la protección de datos 
+y la confiabilidad del proveedor. Consideran que los sensores ambientales son menos invasivos 
+que las cámaras y representan una alternativa adecuada para mantener la privacidad familiar.
+
+---
+
+### Análisis Segmento 2: Familias urbanas
+
+En entornos urbanos, las entrevistas muestran que las familias sí perciben un mayor nivel 
+de vulnerabilidad cuando la vivienda queda sola, incluso contando con cámaras o alarmas 
+básicas. Los principales insights se relacionan con la necesidad de monitoreo constante sin 
+supervisión humana, alertas inmediatas ante intrusiones o accidentes domésticos y herramientas 
+que permitan verificar remotamente el estado del hogar desde el celular.
+
+Uno de los participantes expresó que este tipo de alertas puede ayudar a prevenir la pérdida 
+de bienes materiales, ahorrando tiempo y dinero, al proteger contra amenazas externas como 
+por riesgos internos cotidianos, valorando especialmente sistemas fáciles de instalar, 
+automatizados y capaces de enviar notificaciones en tiempo real para reaccionar rápidamente. 
+La privacidad también emerge como un factor clave, inclinando la preferencia hacia sensores 
+inteligentes que complementen o reemplacen el uso excesivo de cámaras.
+
+---
+
+### Análisis Segmento 3: Propietarios de inmuebles en alquiler
+
+Las entrevistas con arrendadores revelan que valorarían mucho una propuesta tecnológica que 
+permita la protección y supervisión eficiente de sus activos inmobiliarios sin generar 
+incomodidad en los inquilinos. Actualmente dependen de visitas presenciales ocasionales para 
+verificar el estado de las propiedades, lo que dificulta detectar a tiempo filtraciones, 
+descuidos o daños estructurales de sus inmuebles.
+
+Uno de los entrevistados valoró el uso de sensores IoT que permitan monitoreo remoto mediante 
+dashboards, y añadió que sería útil implementar una funcionalidad que permita la verificación 
+de una alerta por parte del inquilino también. Se señaló además que la ausencia de cámaras 
+es vital para preservar la privacidad del arrendatario. Consideran que integrar tecnología 
+preventiva puede incrementar el valor del alquiler, atraer mejores inquilinos y justificar 
+modelos de suscripción mensual con mantenimiento incluido, posicionando a SafeHome como una 
+herramienta de gestión inmobiliaria preventiva además de un sistema de seguridad.
+
+---
+
+### Análisis General
+
+Las entrevistas realizadas a familias y propietarios de inmuebles evidencian que, aunque 
+muchos hogares cuentan con medidas básicas de seguridad como vigilancia municipal, cámaras 
+externas o visitas periódicas de supervisión, aún existe una preocupación importante por los 
+riesgos internos del hogar. Problemas como fugas de gas, incendios, filtraciones de agua o 
+descuidos de inquilinos representan amenazas que suelen detectarse tarde, generando pérdidas 
+económicas y preocupación constante en los usuarios.
+
+Asimismo, los entrevistados coincidieron en la necesidad de contar con herramientas 
+tecnológicas que permitan monitorear sus viviendas o propiedades de forma remota sin invadir 
+la privacidad de las personas. Se observa una alta aceptación hacia soluciones basadas en 
+sensores inteligentes e Internet de las Cosas (IoT), especialmente aquellas que envíen alertas 
+inmediatas ante incidentes críticos y permitan centralizar la información en una plataforma o 
+dashboard accesible desde el celular o computadora.
+
+Para el proyecto SafeHome, estos resultados validan la propuesta de desarrollar un sistema de 
+monitoreo preventivo enfocado en la detección temprana de riesgos domésticos. Las entrevistas 
+confirman que existe una oportunidad real de mercado para una solución segura, no invasiva y 
+basada en suscripción mensual, capaz de mejorar la protección del hogar, optimizar la gestión 
+de propiedades y brindar tranquilidad tanto a familias como a propietarios arrendadores.
 
 ## 2.3. Needfinding
 
