@@ -636,7 +636,51 @@ Para SafeHome se definen SEO Tags y Meta Tags para las principales páginas del 
 
 ### 4.2.4. Searching Systems
 
-Contenido de la sección.
+El sistema de búsqueda de SafeHome se plantea de forma distinta para el Landing Page y para la Web Application. La guía pide especificar qué medios de ayuda se brindarán al usuario para buscar datos, qué filtros tendrá y cómo se verán los resultados.
+ 
+**Landing Page**
+ 
+En el Landing Page no se implementa una barra de búsqueda principal. Esto se debe a que el volumen de información es reducido y está organizado en bloques directos: inicio, servicios, planes e inicio de sesión. Por ello, la localización del contenido se resuelve mediante navegación superior, botones de acción y scroll vertical.
+ 
+La ausencia de buscador en esta parte no afecta la localización del contenido porque la arquitectura del Landing Page es corta y secuencial.
+ 
+**Web Application**
+ 
+En la Web Application sí se propone búsqueda dentro de módulos específicos del sistema. El objetivo es ubicar información operativa sin recorrer manualmente todas las secciones.
+ 
+Búsqueda en Cámaras: permite localizar cámaras por nombre de cámara, ambiente y estado. Ejemplos de valores: **Sala**, **Entrada**, **Cocina**, **Activa**, **Desconectada**.
+ 
+Búsqueda en Dispositivos: permite localizar dispositivos por nombre, tipo de dispositivo y estado de conexión. Ejemplos: sensor, alarma, cámara, foco, activo, inactivo.
+ 
+Búsqueda en Eventos y Alertas: permite localizar registros por fecha, tipo de evento, prioridad y estado. Ejemplos: alerta crítica, evento resuelto, pendiente, reciente.
+ 
+**Filtros propuestos**
+ 
+Los filtros principales del sistema son:
+ 
+- **Estado**
+- **Tipo**
+- **Fecha**
+- **Ambiente**
+- **Prioridad**
+Estos filtros se aplican según el módulo. No todos aparecen en todas las vistas.
+ 
+**Visualización de resultados**
+ 
+Los resultados se muestran en tarjetas o listados según el contenido del módulo. Cada resultado debe presentar como mínimo:
+ 
+- nombre o título del elemento;
+- estado actual;
+- indicador visual;
+- referencia temporal cuando corresponda.
+En alertas y eventos, los resultados se ordenan por criterio temporal. En cámaras y dispositivos, los resultados se muestran agrupados por módulo y con prioridad visual al estado del elemento.
+ 
+**Criterios aplicados**
+ 
+- búsqueda orientada a tareas;
+- filtros simples y visibles;
+- resultados con lectura rápida;
+- separación por módulo para evitar sobrecarga.
 
 ### 4.2.5. Navigation Systems
 
