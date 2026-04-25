@@ -208,9 +208,71 @@ Si bien algunas empresas locales y con presencia internacional en el Perú ofrec
 
 Contenido de la sección.
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+## 2.1.2. Estrategias y tácticas frente a competidores
 
-Contenido de la sección.
+Según el análisis realizado, SafeHome identifica varias oportunidades para diferenciarse 
+en un mercado donde la mayoría de las soluciones se concentran en la seguridad perimetral 
+externa y videovigilancia. Mientras que los competidores locales como Prosegur Alarmas y 
+Verisure destacan por su monitoreo profesional 24/7 y respuesta rápida, y las soluciones 
+internacionales como Ring y Vivint se centran principalmente en video y alarmas, SafeHome 
+propone una estrategia centrada en el monitoreo integral (externo e interno) y una mayor 
+accesibilidad.
+
+Las principales estrategias y tácticas que se adoptarán son las siguientes:
+
+---
+
+### 1. Diferenciación por valor agregado en monitoreo interno
+
+A diferencia de la mayoría de competidores que ofrecen un enfoque limitado en la detección 
+de anomalías internas, SafeHome integrará sensores IoT especializados para detectar fugas 
+de gas, agua y consumos eléctricos inusuales. Esta funcionalidad responde directamente a 
+las necesidades identificadas en las entrevistas realizadas a los segmentos objetivo, donde 
+los usuarios expresaron preocupación por riesgos domésticos internos además de las 
+intrusiones externas.
+
+---
+
+### 2. Accesibilidad y modelo de negocio flexible
+
+Mientras que Prosegur, Verisure y Vivint suelen requerir contratos a largo plazo y cuotas 
+mensuales elevadas, SafeHome implementará un modelo de suscripción más accesible y flexible 
+(freemium), orientado especialmente a jóvenes adultos independientes y familias de ingresos 
+medios que viven en departamentos. De esta forma se busca reducir la barrera de entrada que 
+actualmente existe en el mercado.
+
+---
+
+### 3. Enfoque en plataforma web responsive como canal principal
+
+La mayoría de competidores priorizan aplicaciones móviles o sistemas cerrados con central 
+receptora. SafeHome desarrollará una plataforma web responsive como interfaz principal, 
+permitiendo un acceso más cómodo desde cualquier dispositivo (computadora, tablet o celular) 
+sin necesidad de instalar aplicaciones adicionales. Esto mejora la experiencia de usuario y 
+facilita el monitoreo para aquellos que prefieren interfaces web.
+
+---
+
+### 4. Fácil instalación y enfoque DIY *(Do It Yourself)*
+
+Se priorizará un diseño de sensores plug-and-play con configuración intuitiva a través de 
+la plataforma web, reduciendo la dependencia de instalación profesional costosa que exigen 
+la mayoría de competidores locales.
+
+---
+
+### 5. Estrategia de posicionamiento inicial
+
+SafeHome se posicionará inicialmente en el segmento de jóvenes adultos independientes y 
+familias urbanas en Lima Metropolitana, ofreciendo una solución más económica y tecnológica 
+que combine seguridad externa con monitoreo inteligente interno, cerrando la brecha 
+identificada en el mercado peruano.
+
+---
+
+Estas estrategias permitirán a SafeHome no solo competir, sino también crear un nicho propio 
+en el mercado de seguridad doméstica inteligente, enfocándose en la seguridad integral 
+accesible y en la tranquilidad real de los usuarios.
 
 ## 2.2. Entrevistas
 
