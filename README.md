@@ -514,11 +514,21 @@ Estas decisiones no modifican la estética del sistema, pero sí mejoran su uso 
 
 ## 4.2. Information Architecture
 
-Contenido de la sección.
-
 ### 4.2.1. Organization Systems
 
-Contenido de la sección.
+La arquitectura de información de SafeHome se organiza combinando sistemas de organización jerárquica, secuencial y, en algunos casos, cronológica o matricial, según el tipo de información y la tarea que el usuario necesita realizar. Esta decisión responde a la necesidad de ofrecer una experiencia clara tanto en la zona pública del producto como en la zona privada de monitoreo del hogar. SafeHome cuenta con una parte informativa orientada a los visitantes y una parte operativa enfocada en usuarios que administran dispositivos, revisan alertas y monitorean eventos de seguridad en tiempo real.
+ 
+En la Landing Page se aplicará principalmente una organización jerárquica, ya que el contenido se mostrará de acuerdo con su nivel de importancia visual: primero la propuesta de valor, luego los beneficios del sistema, los servicios disponibles, la explicación de funcionamiento, los testimonios, las preguntas frecuentes y finalmente la información de contacto. Asimismo, en la sección "Cómo funciona" se empleará una organización secuencial, ya que el objetivo es explicar paso a paso cómo SafeHome monitorea el hogar y genera alertas. En esta zona pública, la información se categorizará por tópicos, separando claramente beneficios, servicios, testimonios, preguntas frecuentes y contacto. Adicionalmente, parte del contenido podrá presentarse según audiencia, considerando que el proyecto está dirigido a jóvenes adultos independientes, familias urbanas y propietarios de inmuebles en alquiler.
+ 
+En el proceso de registro e inicio de sesión se utilizará una organización secuencial, ya que el usuario debe seguir un flujo ordenado para comenzar a usar la plataforma: acceder, registrarse o iniciar sesión e ingresar al sistema. Esta estructura paso a paso facilita la comprensión del recorrido inicial y reduce errores en el acceso.
+ 
+Dentro de la aplicación web principal, la organización será mayormente jerárquica y por tópicos. El dashboard principal priorizará visualmente la información crítica, mostrando primero el estado general del hogar y las alertas más relevantes. A partir de este núcleo se agruparán los módulos en categorías funcionales, tales como dispositivos de seguridad, estado del hogar, alertas, eventos en tiempo real, historial, perfil/configuración y soporte. Esta categorización por tópicos permite que el usuario identifique rápidamente dónde realizar cada acción principal dentro del sistema.
+ 
+En el módulo de eventos e historial se aplicará una categorización cronológica, ya que los incidentes de seguridad deben mostrarse en función de la fecha y hora en que ocurrieron. Además, estos eventos también podrán organizarse por tópicos, diferenciando el tipo de incidente detectado, como intrusión, humo, fuga de gas o anomalías en los servicios del hogar. En caso de presentarse mediante tablas o paneles comparativos, también podrá emplearse una organización matricial, relacionando variables como dispositivo, tipo de evento, estado y momento de ocurrencia.
+ 
+[https://www.figma.com/board/ekvGCZkbyE4cyCkpUJp4BR/Untitled?node-id=0-1&t=TtPDIWI59f4syduq-1](https://www.figma.com/board/ekvGCZkbyE4cyCkpUJp4BR/Untitled?node-id=0-1&t=TtPDIWI59f4syduq-1)
+
+![](./assets/Organization-Systems.png)
 
 ### 4.2.2. Labeling Systems
 
