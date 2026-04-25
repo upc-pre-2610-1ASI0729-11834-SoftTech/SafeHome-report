@@ -900,8 +900,35 @@ Contenido de la sección.
 | Confirmar seguridad frente a accesos no autorizados                             | Media      | Alta        |
 ### 2.3.3. User Journey Mapping
 
-Contenido de la sección.
+<p align="center">
+  <img src="assets/segmento1.png" width="400"/>
+</p>
 
+<p align="center">
+  <img src="assets/semento1_1.png" width="400"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="assets/segmento2.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/segmento2_1.png" width="400"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="assets/segmento3.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/segmento3_1.png" width="400"/>
+</p>
 ### 2.3.4. Empathy Mapping
 
 Contenido de la sección.
