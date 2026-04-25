@@ -279,8 +279,98 @@ Contenido de la sección.
 Contenido de la sección.
 
 ### 4.1.1. General Style Guidelines
+La guía general de estilo de SafeHome establece los lineamientos visuales base que se aplicarán en el Landing Page y en la Web Application. Su objetivo es mantener consistencia gráfica, legibilidad, reconocimiento de marca y uniformidad en los componentes de interfaz. Para ello, se definieron reglas comunes de branding, color, tipografía, espaciado y lenguaje visual, de modo que todos los entregables del proyecto utilicen el mismo sistema de diseño.
 
-Contenido de la sección.
+![](./assets/imagen1-style-guidelines.png)
+
+Branding
+La identidad visual de SafeHome se construye a partir de un logotipo compuesto por un isotipo de casa con contorno circular y el nombre de la marca en una composición horizontal. Este recurso gráfico comunica de forma directa los conceptos de hogar, protección y monitoreo. El logotipo se utiliza como elemento principal de reconocimiento visual en pantallas de inicio, barras de navegación, formularios de acceso y secciones de presentación del servicio.
+Para conservar consistencia visual, el sistema considera un uso uniforme del logo en relación con el espaciado. La unidad base tomada para márgenes y áreas de seguridad es la altura del ícono del logotipo. De este modo, se evita que otros elementos invadan su área visual y se garantiza una correcta legibilidad en diferentes tamaños de pantalla.
+
+![](./assets/imagen2-style-guidelines.png)
+
+**Paleta de colores**
+ 
+La paleta cromática de SafeHome se compone de cinco colores principales:
+ 
+- `#A7F3E4` para fondos suaves y superficies secundarias.
+- `#00E5C3` como color de acento y principal llamada visual.
+- `#0D0D0D` para títulos, bloques destacados y contraste fuerte.
+- `#6B7280` para texto secundario y elementos de apoyo.
+- `#F5F5F5` para fondos neutros y separación visual de secciones.
+
+![](./assets/imagen3-style-guidelines.png)
+
+![](./assets/imagen3-style-guidelines.png)
+
+Esta selección responde a tres necesidades del producto. Primero, transmitir seguridad y limpieza visual mediante tonos claros y neutros. Segundo, destacar acciones relevantes usando un turquesa brillante como color primario de interacción. Tercero, asegurar contraste suficiente entre texto, botones y superficies, especialmente en pantallas donde se muestra información operativa del hogar.
+ 
+**Tipografía**
+ 
+La familia tipográfica seleccionada es Arial Rounded MT Bold. Esta tipografía se utiliza en títulos, botones y elementos principales de interfaz. Su elección responde a dos criterios: buena legibilidad en tamaños medianos y pequeños, y una forma visual amigable que reduce rigidez excesiva sin perder claridad.
+ 
+La jerarquía tipográfica definida es la siguiente:
+ 
+- H1: 36/44 px
+- H2: 24/32 px
+- H3: 18/26 px
+- Texto destacado: 16/24 px
+- Texto de párrafo: 14/20 px
+- Texto pequeño o de ayuda: 12/16 px
+
+![](./assets/imagen4-style-guidelines.png)
+
+Esta jerarquía permite diferenciar correctamente títulos, subtítulos, bloques descriptivos y mensajes de apoyo. En la aplicación, esto facilita la lectura rápida de estados, servicios, planes y formularios.
+ 
+**Espaciado**
+ 
+El sistema de espaciado se basa en una retícula de múltiplos de **8 px**. Los valores establecidos son 8 px, 16 px, 24 px, 32 px, 48 px, 64 px, 80 px y 96 px. Esta decisión permite mantener alineación consistente entre bloques, separación uniforme entre componentes y una distribución visual predecible en resoluciones desktop y mobile.
+ 
+El uso de una escala fija también facilita la construcción de layouts reutilizables. Por ejemplo, los espacios entre tarjetas, botones, grupos de texto y contenedores siguen una lógica repetible, lo cual simplifica el prototipado y la implementación posterior en desarrollo.
+ 
+**Bordes, radios y sombras**
+ 
+Para la geometría de la interfaz se definieron radios de borde de 4 px, 8 px, 12 px, 16 px, 24 px y 32 px. Esta escala permite adaptar el nivel de redondeo según el tipo de componente. Los campos de formulario, botones y tarjetas usan bordes redondeados para mantener coherencia con la tipografía y con la identidad visual general.
+ 
+En cuanto a profundidad visual, se definieron tres niveles de sombra:
+ 
+- Sombra S: 0 px 2 px 8 px rgba(0,0,0,0.06)
+- Sombra M: 0 px 8 px 24 px rgba(0,0,0,0.08)
+- Sombra L: 0 px 16 px 40 px rgba(0,0,0,0.12)
+
+![](./assets/imagen5-style-guidelines.png)
+
+Estas sombras se utilizan de forma moderada en tarjetas, bloques destacados y elementos elevados. No se aplican de forma excesiva, ya que el sistema prioriza limpieza visual y lectura clara de contenido.
+ 
+**Lenguaje visual e iconografía**
+ 
+La iconografía del sistema utiliza íconos simples, lineales y de fácil reconocimiento. Entre ellos se incluyen referencias a hogar, seguridad, alertas, configuración, monitoreo y acciones de usuario. Este estilo evita ambigüedad visual y mantiene compatibilidad con el enfoque funcional de la plataforma.
+ 
+A nivel gráfico, SafeHome utiliza una interfaz de baja saturación en fondos y alta claridad en elementos accionables. La combinación entre fondos claros, acentos turquesa y bloques negros destacados permite jerarquizar información sin recargar la pantalla.
+
+![](./assets/imagen6-style-guidelines.png)
+
+**Tono de comunicación**
+ 
+El tono de comunicación definido para SafeHome es **serio, claro, respetuoso y directo**. No se emplea un lenguaje irreverente ni decorativo. La redacción de botones, mensajes, estados y alertas usa frases breves y funcionales.
+ 
+En la dimensión de estilo comunicacional, la propuesta se ubica así:
+ 
+- Serio antes que divertido.
+- Semiformal antes que casual.
+- Respetuoso antes que irreverente.
+- Sereno antes que entusiasta.
+Este criterio es coherente con el tipo de producto, ya que SafeHome gestiona información relacionada con monitoreo del hogar, prevención y control. Por ello, la interfaz debe transmitir confianza operativa y no entretenimiento.
+ 
+**Principios de diseño aplicados**
+ 
+Los lineamientos generales del sistema se apoyan en los siguientes principios:
+ 
+- Consistencia: mismo uso de colores, tipografía, iconos y componentes en todo el ecosistema.
+- Claridad visual: jerarquía evidente entre títulos, contenido, acciones principales y estados del sistema.
+- Legibilidad: tamaños tipográficos y contrastes adecuados para lectura rápida.
+- Simplicidad funcional: reducción de elementos innecesarios y priorización de acciones concretas.
+- Reconocimiento inmediato: uso estable del logo, la paleta y los patrones visuales en todas las pantallas.
 
 ### 4.1.2. Web Style Guidelines
 
