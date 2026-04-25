@@ -855,9 +855,71 @@ Contenido de la sección.
 | Revisar incidentes ocurridos en el inmueble para prevenir daños mayores | Alta | Alta |
 | Confirmar que la propiedad permanezca segura frente a accesos no autorizados | Media | Alta |
 
-### 2.3.3. User Journey Mapping
+## 2.3.3. User Journey Mapping
 
-Contenido de la sección.
+### Mapa de viaje: Jóvenes Adultos Independientes
+
+![User Journey Map - Jóvenes Adultos Independientes](../assets/empathy3.png)
+
+Este ecosistema integra una arquitectura IoT con el viaje emocional del usuario. Todo inicia 
+cuando el estrés por la inseguridad impulsa al cliente a registrarse en la App y vincular 
+sensores mediante Google Cloud, transformando la ansiedad inicial en alivio gracias a una 
+configuración técnica sencilla (DIY) y geolocalizada con Google Maps.
+
+En la fase operativa, el sistema garantiza la calma del usuario mediante el monitoreo 
+constante de telemetría. Ante cualquier anomalía, se activan alertas críticas vía Twilio y 
+Firebase, resolviendo el miedo a la desprotección. Finalmente, el flujo cierra con la 
+monetización mediante Niubiz, donde el pago de un plan Premium convierte los datos técnicos 
+en reportes de valor que generan confianza y fomentan la recomendación del servicio.
+
+---
+
+### Mapa de viaje: Familias Urbanas
+
+![User Journey Map - Familias Urbanas](../assets/empathy2.png)
+
+Este mapa de viaje para Familias Urbanas se enfoca en la protección del hogar y la 
+privacidad, complementando el flujo técnico anterior con las siguientes etapas:
+
+- **Necesidad y Validación:** El viaje inicia por el miedo a robos o fugas, lo que lleva a 
+  la familia a buscar vigilancia interna. En la fase de investigación, su prioridad es la 
+  privacidad (evitar cámaras invasivas), buscando testimonios que validen la confiabilidad 
+  del sistema.
+
+- **Adopción y Protección:** Al contratar el Plan Premium, la familia experimenta seguridad. 
+  El comportamiento clave aquí es la instalación familiar (participativa), aunque temen los 
+  contratos largos. Durante el uso cotidiano (Retention), se sienten protegidos gracias a las 
+  alertas simultáneas para varios miembros, aunque la falta de respuesta rápida es su mayor 
+  punto de dolor.
+
+- **Fidelización Crítica:** El ciclo cierra con la entrega de reportes de seguridad que 
+  generan lealtad. Sin embargo, este segmento es más exigente: demandan soporte 24/7 y se 
+  ven afectados por fallas eléctricas, lo que refuerza la oportunidad técnica de implementar 
+  sistemas de respaldo de energía mencionados en el primer diagrama.
+
+---
+
+### Mapa de viaje: Propietarios de inmuebles en alquiler
+
+![User Journey Map - Propietarios de Inmuebles](../assets/empathy1.png)
+
+Este esquema detalla el ciclo operativo de gestión, que representa la interacción cotidiana 
+y lógica del usuario con la plataforma una vez superada la instalación. El proceso comienza 
+con las etapas de Acceso y Supervisión, donde el usuario entra al sistema con una mentalidad 
+de verificación rápida; aquí, la prioridad emocional es el enfoque y el control, lo que 
+genera la oportunidad de diseñar un dashboard de entrada directa que confirme que todos los 
+dispositivos están en línea de un solo vistazo.
+
+Posteriormente, el flujo avanza hacia el **Monitoreo y la Gestión**, fases donde el usuario 
+analiza eventos en tiempo real con una actitud de atención y organización. En este punto, el 
+pensamiento central es la discriminación de alertas para "priorizar lo importante", lo que 
+valida técnicamente la necesidad de contar con filtros eficientes y una entrega de información 
+inmediata.
+
+Finalmente, el ciclo cierra con la **Evaluación y Optimización**, un proceso analítico donde 
+se revisa el historial de eventos para ajustar configuraciones. Esta última etapa busca 
+transformar los datos históricos en una sensación de seguridad proactiva, permitiendo que el 
+sistema no solo reaccione, sino que evolucione según los patrones detectados por el usuario.
 
 ### 2.3.4. Empathy Mapping
 
