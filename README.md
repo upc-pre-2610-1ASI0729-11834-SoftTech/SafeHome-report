@@ -957,7 +957,8 @@ Contenido de la sección.
 <p align="center">
   <img src="assets/segmento3_1.png" width="400"/>
 </p>
-### 2.3.4. Empathy Mapping
+
+## 2.3.4. Empathy Mapping
 
 Contenido de la sección.
 
