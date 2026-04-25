@@ -334,9 +334,451 @@ Contenido de la sección.
 9. A nivel económico, ¿preferiría que los equipos de sensores requieran un pago único inicial por la instalación, o un modelo de suscripción mensual que incluya mantenimiento y soporte técnico continuo?
 10. ¿Qué otra funcionalidad le pediría a una plataforma de monitoreo de inmuebles para que realmente le reduzca el estrés y los costos imprevistos como propietario?
 
-### 2.2.2. Registro de entrevistas
+## 2.2.2. Registro de entrevistas
 
-Contenido de la sección.
+**Link del video de las entrevistas:** `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4`
+
+---
+
+### Segmento objetivo 1: Jóvenes adultos independientes
+
+---
+
+**Entrevista 1**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Heber Eduardo Jaime Amoretti |
+| **Edad** | 30 años |
+| **Distrito** | Santiago de Surco |
+| **Inicio** | 0:00 |
+| **Duración** | 3:26 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Jóvenes profesionales o estudiantes que viven solos o comparten departamento y pasan gran 
+parte del día fuera de casa. Utilizan tecnología móvil constantemente y buscan soluciones 
+simples que les permitan monitorear su hogar, reducir preocupaciones y mantener control 
+remoto sobre la seguridad y los servicios domésticos.
+
+**Resumen de la entrevista:**
+La entrevista comienza con Heber Jaime Amoretti, un hombre de 30 años que reside en el 
+distrito de Surco y comparte su departamento con otros estudiantes. Heber menciona que, por 
+el momento, no utiliza dispositivos o aplicaciones tecnológicas específicas para la 
+organización de sus finanzas o el manejo de su hogar, lo que lo sitúa como un usuario con 
+gran potencial para adoptar nuevas herramientas digitales de seguridad.
+
+En cuanto a sus preocupaciones, Heber destaca el miedo al robo de sus pertenencias cuando 
+deja el departamento solo para ir a trabajar o estudiar. Su mayor inquietud radica en la 
+imposibilidad de observar lo que sucede en tiempo real e identificar a posibles intrusos. 
+Además, admite que situaciones cotidianas como dudar si dejó conectado un electrodoméstico 
+o los servicios abiertos (agua o gas) le generan un estrés considerable, llegando incluso a 
+sentir el impulso de regresar a casa para verificarlo.
+
+Sobre la propuesta de SafeHome, Heber considera indispensable recibir alertas de todo tipo, 
+desde la apertura de puertas hasta el estado de sus servicios básicos. Se muestra dispuesto 
+a instalar sensores IoT (humo, gas o movimiento) de forma autónoma siempre que el sistema 
+sea cómodo e intuitivo. Finalmente, aunque no tiene un presupuesto definido, espera que la 
+suscripción sea económica y accesible, sugiriendo que la plataforma sería ideal para otros 
+jóvenes que vivan solos y compartan estas mismas necesidades de control remoto.
+
+---
+
+**Entrevista 2**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Abraham Coronado |
+| **Edad** | 20 años |
+| **Distrito** | Pueblo Libre |
+| **Inicio** | 3:26 |
+| **Duración** | 4:02 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Jóvenes profesionales o estudiantes que viven solos o comparten departamento y pasan gran 
+parte del día fuera de casa. Utilizan tecnología móvil constantemente y buscan soluciones 
+simples que les permitan monitorear su hogar, reducir preocupaciones y mantener control 
+remoto sobre la seguridad y los servicios domésticos.
+
+**Resumen de la entrevista:**
+La entrevista se desarrolla con Abraham Coronado, un joven de 20 años que reside en el 
+distrito de Pueblo Libre y vive solo en su departamento. Abraham comenta que utiliza 
+herramientas tecnológicas básicas para la organización de sus finanzas personales, 
+principalmente hojas de cálculo en Excel y aplicaciones móviles para registrar sus gastos 
+diarios, aunque no emplea actualmente soluciones tecnológicas específicas orientadas a la 
+seguridad o automatización del hogar.
+
+Respecto a sus preocupaciones, menciona que, aunque no ha experimentado situaciones directas 
+de robo o intrusión, sí existe un temor latente ante la posibilidad de que alguien ingrese a 
+su vivienda cuando se encuentra fuera. Asimismo, reconoce que situaciones cotidianas como 
+dudar si dejó encendida la luz o algún electrodoméstico conectado le generan inquietud, 
+evidenciando la necesidad de contar con mecanismos de verificación remota que le brinden 
+mayor tranquilidad.
+
+En relación con la propuesta de SafeHome, Abraham considera fundamental recibir alertas 
+relacionadas con el consumo eléctrico y la detección de dispositivos conectados dentro del 
+hogar. Se muestra interesado en instalar sensores IoT, siempre que la configuración sea 
+sencilla, intuitiva y sin complicaciones técnicas. Destaca además que una aplicación de 
+seguridad debe diferenciarse por su facilidad de uso y por permitir el control remoto 
+integral del hogar desde el celular. Aunque no tiene definido un presupuesto mensual 
+específico, afirma que estaría dispuesto a pagar por un servicio que garantice monitoreo 
+constante y notificaciones inmediatas. Finalmente, señala que varios jóvenes de su entorno 
+viven solos y comparten preocupaciones similares, por lo que considera que una plataforma 
+automatizada como SafeHome tendría alta aceptación dentro de este segmento.
+
+---
+
+**Entrevista 3**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Elena Milagros Gómez Luque |
+| **Edad** | 47 años |
+| **Distrito** | Jesús María |
+| **Inicio** | 7:30 |
+| **Duración** | 5:50 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Jóvenes profesionales o estudiantes que viven solos o comparten departamento y pasan gran 
+parte del día fuera de casa. Utilizan tecnología móvil constantemente y buscan soluciones 
+simples que les permitan monitorear su hogar, reducir preocupaciones y mantener control 
+remoto sobre la seguridad y los servicios domésticos.
+
+**Resumen de la entrevista:**
+La entrevista se realiza con Elena, una mujer de 47 años que reside en el distrito de Jesús 
+María y vive junto a tres integrantes de su familia en un departamento. Actualmente, comenta 
+que no cuenta con un sistema de seguridad dentro de su vivienda, aunque el edificio dispone 
+de vigilancia permanente y cámaras de seguridad, lo cual le brinda una sensación general de 
+protección en el día a día.
+
+En relación con sus preocupaciones, identifica como principal vulnerabilidad la posibilidad 
+de robos o accesos no autorizados al edificio o a los departamentos. Si bien considera bajo 
+el riesgo de incidentes domésticos graves, reconoce que situaciones como incendios o 
+cortocircuitos podrían representar una amenaza. Además, menciona que en su edificio se han 
+presentado emergencias previas, como incendios e inundaciones ocasionadas por descuidos de 
+otros residentes, lo que evidencia la importancia de contar con sistemas de alerta temprana.
+
+Respecto a la propuesta de SafeHome, Elena otorga un alto valor a un sistema que envíe 
+notificaciones inmediatas al celular tanto de ella como de su pareja, especialmente 
+considerando que el hogar permanece solo durante varias horas del día. Señala que preferiría 
+un sistema capaz de alertar simultáneamente al usuario y a las autoridades ante una 
+emergencia, permitiendo una respuesta más rápida. Asimismo, destaca que la confianza en la 
+tecnología dependería principalmente de la seguridad contra posibles hackeos y de la 
+facilidad de uso del aplicativo.
+
+En cuanto al modelo de suscripción, considera razonable invertir mensualmente entre 30 y 50 
+soles si el sistema garantiza prevención de riesgos y protección familiar. Finalmente, indica 
+que los sensores ambientales representan una alternativa menos invasiva para la privacidad 
+del hogar, aunque reconoce que pueden complementarse con cámaras de seguridad para lograr 
+una protección más integral.
+
+---
+
+### Segmento objetivo 2: Familias urbanas
+
+---
+
+**Entrevista 4**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Angie Alexandra Guardo Caiz |
+| **Edad** | 21 años |
+| **Distrito** | Santa Anita |
+| **Inicio** | 13:20 |
+| **Duración** | 3:18 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Integrantes de familias que residen en zonas urbanas con rutinas laborales y escolares 
+activas. Priorizan la seguridad del hogar y la protección familiar, valorando herramientas 
+tecnológicas fáciles de usar que permitan supervisar la vivienda y prevenir incidentes 
+mientras no se encuentran en casa.
+
+**Resumen de la entrevista:**
+La entrevista se realiza con Angie Alexandra Guardo Caiz, una joven de 21 años que reside 
+en el distrito de Santa Anita y vive junto a sus padres, su hermano, su abuelo y sus 
+mascotas. En cuanto al uso de tecnología, comenta que emplea aplicaciones bancarias y hojas 
+de cálculo en Excel para la gestión de sus finanzas personales, aunque actualmente no utiliza 
+herramientas tecnológicas específicas destinadas a la seguridad o monitoreo del hogar.
+
+Respecto a sus preocupaciones, señala que su principal inquietud al dejar la vivienda sola 
+es la posibilidad de que personas desconocidas ingresen al hogar, así como la seguridad de 
+sus mascotas y pertenencias personales. Además, menciona que le genera estrés la idea de 
+haber dejado algún artefacto eléctrico conectado que pueda representar un riesgo, 
+especialmente considerando la presencia de animales domésticos dentro de la vivienda.
+
+En relación con la propuesta de SafeHome, considera fundamental contar con alertas 
+relacionadas al ingreso de personas mediante reconocimiento facial, permitiendo identificar 
+si quienes acceden al hogar están autorizados. Asimismo, se muestra dispuesta a instalar 
+sensores IoT siempre que la configuración sea sencilla, intuitiva y sin cables. Destaca que 
+una aplicación de seguridad imprescindible debería permitir verificar el estado de los 
+dispositivos eléctricos del hogar y ofrecer control remoto constante desde el celular.
+
+En cuanto al aspecto económico, indica que su disposición de pago dependería de las 
+funcionalidades incluidas en el plan, especialmente aquellas vinculadas al reconocimiento 
+facial y la detección de artefactos conectados. Finalmente, señala que varios compañeros de 
+su entorno universitario comparten preocupaciones similares, por lo que considera que una 
+plataforma automatizada como SafeHome tendría aceptación entre jóvenes de su generación.
+
+---
+
+**Entrevista 5**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Nicol Quispe |
+| **Edad** | 18 años |
+| **Distrito** | Callao |
+| **Inicio** | 16:40 |
+| **Duración** | 5:49 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Integrantes de familias que residen en zonas urbanas con rutinas laborales y escolares 
+activas. Priorizan la seguridad del hogar y la protección familiar, valorando herramientas 
+tecnológicas fáciles de usar que permitan supervisar la vivienda y prevenir incidentes 
+mientras no se encuentran en casa.
+
+**Resumen de la entrevista:**
+La entrevista se realiza a una joven de 18 años que reside en la Provincia Constitucional 
+del Callao y vive junto a sus padres y dos hermanos, conformando un hogar de cinco 
+integrantes. Actualmente, menciona que su vivienda cuenta con medidas básicas de seguridad, 
+como cámaras ubicadas en la entrada y un sistema de alarma simple. Sin embargo, considera 
+que estas soluciones no resultan completamente suficientes cuando la casa permanece sola, 
+identificando como principal vulnerabilidad el posible ingreso de personas desconocidas.
+
+En relación con los riesgos domésticos, señala una alta preocupación por incidentes internos 
+como fugas de gas o cortocircuitos, debido a que pueden ocurrir sin ser detectados 
+oportunamente. De hecho, comenta que su familia experimentó anteriormente un cortocircuito 
+en la cocina que no fue advertido a tiempo, generando estrés familiar y la necesidad de 
+realizar reparaciones eléctricas para evitar futuros incidentes.
+
+Respecto a la propuesta de SafeHome, considera que un sistema capaz de enviar notificaciones 
+inmediatas al celular tendría un valor muy alto, ya que permitiría reaccionar rápidamente 
+ante emergencias incluso cuando los integrantes del hogar se encuentren fuera. Prefiere que 
+las alertas lleguen primero al usuario para verificar la situación antes de contactar 
+automáticamente a las autoridades. Asimismo, destaca que la confianza en el sistema 
+dependería de su fiabilidad, facilidad de uso, alertas en tiempo real y una instalación 
+sencilla.
+
+En cuanto al modelo de suscripción, indica que estaría dispuesta a pagar entre 30 y 60 soles 
+mensuales si la tecnología contribuye efectivamente a prevenir accidentes y proteger a su 
+familia. Finalmente, considera que el uso de sensores ambientales representa una alternativa 
+más cómoda y menos invasiva que instalar cámaras en todos los espacios del hogar, permitiendo 
+mantener la privacidad familiar sin perder seguridad.
+
+---
+
+**Entrevista 6**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Claudia Angelina Rios Rios |
+| **Edad** | 22 años |
+| **Distrito** | Comas |
+| **Inicio** | 22:29 |
+| **Duración** | 10:00 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Integrantes de familias que residen en zonas urbanas con rutinas laborales y escolares 
+activas. Priorizan la seguridad del hogar y la protección familiar, valorando herramientas 
+tecnológicas fáciles de usar que permitan supervisar la vivienda y prevenir incidentes 
+mientras no se encuentran en casa.
+
+**Resumen de la entrevista:**
+La entrevista se realiza con Claudia Angelina, una joven de 22 años que reside en el distrito 
+de Comas y vive junto a dos integrantes más de su familia. Actualmente, su hogar no cuenta 
+con un sistema formal de seguridad, utilizando únicamente un grupo vecinal de WhatsApp como 
+medio de comunicación ante incidentes. Si bien considera que esta medida resulta útil para 
+compartir información después de algún evento, reconoce que no permite una reacción inmediata 
+frente a situaciones de riesgo.
+
+En relación con la seguridad del hogar, identifica como principal vulnerabilidad el momento 
+en que la vivienda queda sola debido a las actividades laborales o académicas de los 
+integrantes de la familia. Señala que esta situación incrementa la preocupación tanto por la 
+pérdida de bienes materiales como por la seguridad personal en caso de que alguien permanezca 
+solo en casa.
+
+Asimismo, manifiesta una alta preocupación por incidentes domésticos como fugas de gas o 
+cortocircuitos, debido a que suelen ocurrir de manera silenciosa y pueden afectar no solo a 
+la familia, sino también a los vecinos cercanos. Relata que su hogar experimentó previamente 
+una fuga de gas detectada varias horas después, lo que generó estrés, gastos económicos y la 
+necesidad de realizar reparaciones, reforzando la importancia de contar con alertas tempranas.
+
+Respecto a la propuesta de SafeHome, considera que un sistema capaz de enviar notificaciones 
+inmediatas al celular tendría un valor significativo, ya que permitiría reaccionar rápidamente 
+y reducir la ansiedad asociada a posibles emergencias. Prefiere recibir primero la notificación 
+para verificar la situación y evitar falsas alarmas, aunque considera positivo que el sistema 
+pueda escalar automáticamente el aviso a las autoridades si no existe respuesta del usuario.
+
+Entre las características esenciales del sistema, destaca la confiabilidad, facilidad de uso, 
+alertas claras y precisas, así como una configuración sencilla que pueda ser utilizada por 
+todos los miembros del hogar, incluidos adultos mayores. Indica además que estaría dispuesta 
+a pagar entre 30 y 60 soles mensuales por un servicio de monitoreo que prevenga accidentes 
+y brinde tranquilidad familiar. Finalmente, considera que los sensores ambientales representan 
+una alternativa más cómoda y menos invasiva que las cámaras internas, ya que permiten mantener 
+el equilibrio entre seguridad y privacidad dentro del hogar.
+
+---
+
+### Segmento objetivo 3: Propietarios de inmuebles en alquiler
+
+---
+
+**Entrevista 7**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Cristina Reyes Merino |
+| **Edad** | 32 años |
+| **Distrito** | Surco, Magdalena |
+| **Inicio** | 32:30 |
+| **Duración** | 8:49 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Propietarios que gestionan viviendas en alquiler y requieren supervisión remota sin presencia 
+constante. Buscan soluciones tecnológicas que faciliten el control de accesos, la prevención 
+de daños y la administración eficiente de sus propiedades.
+
+**Resumen de la entrevista:**
+La entrevista se realizó con Cristina Reyes, de 32 años, propietaria de dos inmuebles 
+destinados al alquiler ubicados en los distritos de Surco y Magdalena del Mar. Su incursión 
+en el sector inmobiliario inició como una estrategia para generar ingresos adicionales y 
+asegurar estabilidad financiera a largo plazo.
+
+Actualmente, el monitoreo del estado de sus propiedades se basa principalmente en visitas 
+presenciales periódicas. Sin embargo, este proceso presenta limitaciones, ya que coordinar 
+horarios con los inquilinos resulta complicado y visitas frecuentes pueden generar incomodidad 
+o sensación de invasión de privacidad. Esta situación evidencia la necesidad de contar con 
+mecanismos de supervisión remota que no interfieran con la convivencia entre propietario e 
+inquilino.
+
+Durante su experiencia como arrendadora, ha enfrentado incidentes derivados del descuido de 
+inquilinos, como filtraciones de agua que afectaron a vecinos colindantes y daños menores en 
+electrodomésticos por uso inadecuado. Asimismo, menciona un caso en el que un inquilino dejó 
+una ventana abierta durante un viaje, exponiendo la propiedad a posibles robos, situación que 
+pudo resolverse a tiempo gracias al aviso del personal de mantenimiento.
+
+La entrevistada considera complejo proteger su inversión inmobiliaria sin afectar la privacidad 
+de los arrendatarios, por lo que valora positivamente la implementación de sistemas basados en 
+sensores que detecten únicamente situaciones críticas sin recurrir al uso de cámaras internas. 
+Indica que ofrecer propiedades equipadas con tecnología preventiva podría justificar un 
+incremento en el costo del alquiler. Destaca también la importancia de contar con una 
+plataforma centralizada con dashboard web que permita visualizar el estado de múltiples 
+propiedades en tiempo real, reduciendo desplazamientos y optimizando la gestión inmobiliaria.
+
+En cuanto al modelo de pago, considera más accesible un esquema de suscripción mensual que 
+incluya mantenimiento continuo. Finalmente, propone funcionalidades adicionales como alertas 
+ante incendios o inundaciones, registro histórico de incidentes y recomendaciones de 
+mantenimiento preventivo, con el objetivo de anticipar riesgos futuros y proteger mejor sus 
+activos inmobiliarios.
+
+---
+
+**Entrevista 8**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Saúl Romani Romani |
+| **Edad** | 48 años |
+| **Distrito** | Lince |
+| **Inicio** | 41:18 |
+| **Duración** | 5:05 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Propietarios que gestionan viviendas en alquiler y requieren supervisión remota sin presencia 
+constante. Buscan soluciones tecnológicas que faciliten el control de accesos, la prevención 
+de daños y la administración eficiente de sus propiedades.
+
+**Resumen de la entrevista:**
+La entrevista se realizó con Saúl Romani, de 48 años, propietario de un departamento 
+destinado al alquiler ubicado en el distrito de Lince. Su principal interés como arrendador 
+es mantener el buen estado de la propiedad y proteger su inversión inmobiliaria durante los 
+periodos de alquiler.
+
+Actualmente, el método que utiliza para verificar la seguridad y mantenimiento del inmueble 
+consiste en visitas presenciales ocasionales, generalmente una o dos veces durante contratos 
+anuales de arrendamiento. Sin embargo, reconoce que este sistema resulta limitado, ya que no 
+permite detectar problemas en tiempo real ni prevenir incidentes antes de que generen daños 
+mayores.
+
+Según su experiencia, los problemas más frecuentes y costosos están relacionados con el 
+deterioro de pisos, paredes, puertas y muebles ocasionados por el uso inadecuado de los 
+inquilinos. Mencionó también un caso específico en el que el descuido en el cuidado de 
+mascotas provocó daños significativos en los pisos del departamento, evidenciando la 
+dificultad de supervisar el estado del inmueble sin invadir la privacidad del residente.
+
+El entrevistado manifestó interés en la implementación de sistemas basados en sensores IoT 
+que envíen alertas al celular ante eventos relevantes como fugas de gas, movimientos inusuales 
+o anomalías en los servicios, destacando que sería importante que tanto propietario como 
+inquilino puedan recibir dichas notificaciones. Considera que ofrecer un departamento equipado 
+con tecnología inteligente podría resultar atractivo para los inquilinos y justificar un mayor 
+costo de alquiler. También señaló que una plataforma web con dashboard centralizado sería 
+especialmente útil para propietarios con más de un inmueble.
+
+Finalmente, expresó preferencia por un sistema de suscripción mensual que incluya 
+mantenimiento y soporte técnico continuo, ya que permite distribuir mejor los costos y 
+garantiza el funcionamiento adecuado de los dispositivos a lo largo del tiempo.
+
+---
+
+**Entrevista 9**
+
+| Campo | Detalle |
+|-------|---------|
+| **Nombre completo** | Cristian Centeno |
+| **Edad** | 41 años |
+| **Distrito** | San Ramón, Chanchamayo |
+| **Inicio** | 46:24 |
+| **Duración** | 12:53 |
+| **Link** | `upc-pre-202610-1asi0729-11834-SoftTech-needfinding-sprint-1.mp4` |
+
+**Características del arquetipo:**
+Propietarios que gestionan viviendas en alquiler y requieren supervisión remota sin presencia 
+constante. Buscan soluciones tecnológicas que faciliten el control de accesos, la prevención 
+de daños y la administración eficiente de sus propiedades.
+
+**Resumen de la entrevista:**
+La entrevista se realizó con Cristian Centeno, de 41 años, residente del distrito de San 
+Ramón, provincia de Chanchamayo. Vive en un núcleo familiar compuesto por tres personas, 
+incluyendo un niño pequeño. El entrevistado señaló que su zona de residencia presenta bajos 
+niveles de criminalidad en comparación con ciudades grandes como Lima, por lo que actualmente 
+no cuenta con sistemas tecnológicos de seguridad, apoyándose principalmente en la vigilancia 
+municipal del serenazgo, la cual considera moderadamente efectiva.
+
+En relación con la seguridad del hogar, indicó que la principal vulnerabilidad no proviene 
+necesariamente de la delincuencia, sino de posibles riesgos naturales o domésticos propios 
+de la zona, como inundaciones o huaycos debido a la cercanía con ríos y quebradas. No 
+obstante, afirmó que su familia adopta una cultura preventiva para anticipar riesgos y evitar 
+emergencias dentro del hogar.
+
+El entrevistado destacó la importancia de las tecnologías basadas en Internet de las Cosas 
+(IoT), especialmente aquellas capaces de enviar alertas en tiempo real al celular ante 
+situaciones de peligro. Considera que estos sistemas no solo ayudan a prevenir accidentes 
+domésticos, sino que también permiten recopilar información útil para la toma de decisiones 
+tanto en el ámbito familiar como empresarial. Asimismo, mencionó que la motivación principal 
+para implementar tecnologías de monitoreo estaría relacionada con la protección de su hijo 
+pequeño y la supervisión del entorno cuando terceros estén a cargo del cuidado del hogar.
+
+Respecto al funcionamiento del sistema ante emergencias, señaló que la automatización de 
+alertas hacia autoridades debería depender del contexto y del nivel de riesgo, permitiendo 
+inicialmente la verificación por parte del usuario cuando sea posible. Enfatizó además que 
+para confiar plenamente en un sistema de monitoreo, este debe contar con dispositivos 
+certificados, estándares de calidad, empresas proveedoras con buena reputación y sólidas 
+políticas de protección de datos que garanticen la privacidad familiar.
+
+En el aspecto económico, manifestó disposición a pagar por un servicio premium de monitoreo 
+si este logra prevenir pérdidas significativas o riesgos importantes, considerando la 
+inversión en seguridad como una medida rentable frente a posibles daños o accidentes. 
+Finalmente, señaló que los sensores representan una alternativa menos invasiva que las 
+cámaras tradicionales, al ofrecer monitoreo eficiente sin afectar la privacidad de los 
+habitantes.
 
 ## 2.2.3. Análisis de entrevistas
 
