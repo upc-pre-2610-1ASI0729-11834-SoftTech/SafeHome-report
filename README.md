@@ -595,7 +595,44 @@ En botones y CTAs se mantiene la misma lógica:
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Contenido de la sección.
+Para SafeHome se definen SEO Tags y Meta Tags para las principales páginas del Landing Page y para las vistas base de la Web Application. Como mínimo se incluyen Title, Meta Description, Keywords y Author.
+ 
+**Landing Page - Inicio**
+ 
+- Title: SafeHome | Seguridad y monitoreo inteligente para el hogar
+- Meta Description: SafeHome es una plataforma web de seguridad doméstica que permite supervisar el hogar, conocer servicios y revisar planes desde una interfaz clara y responsive.
+- Keywords: SafeHome, seguridad del hogar, monitoreo inteligente, hogar seguro, vigilancia web, plataforma de seguridad doméstica
+- Author: Equipo SafeHome
+**Landing Page - Servicios**
+ 
+- Title: Servicios | SafeHome
+- Meta Description: Conoce los servicios de SafeHome para monitoreo del hogar, control de dispositivos y prevención de incidentes desde una solución web de seguridad doméstica.
+- Keywords: servicios SafeHome, monitoreo del hogar, control de dispositivos, prevención de incidentes, seguridad doméstica, vigilancia inteligente
+- Author: Equipo SafeHome
+**Landing Page - Planes**
+ 
+- Title: Planes | SafeHome
+- Meta Description: Revisa los planes Free y Premium de SafeHome y compara sus características para elegir la opción adecuada para tu hogar.
+- Keywords: planes SafeHome, plan free, plan premium, precios seguridad hogar, monitoreo doméstico, suscripción SafeHome
+- Author: Equipo SafeHome
+**Web Application - Iniciar sesión**
+ 
+- Title: Iniciar sesión | SafeHome
+- Meta Description: Accede a SafeHome para gestionar cámaras, dispositivos, alertas y eventos del hogar desde una plataforma centralizada.
+- Keywords: login SafeHome, iniciar sesión SafeHome, gestión del hogar, alertas de seguridad, cámaras y dispositivos
+- Author: Equipo SafeHome
+**Web Application - Dashboard**
+ 
+- Title: Dashboard | SafeHome
+- Meta Description: Visualiza el estado general del hogar con el panel de control de SafeHome mediante cámaras, dispositivos, alertas e historial.
+- Keywords: dashboard SafeHome, panel de control, cámaras del hogar, dispositivos inteligentes, alertas del hogar, historial de eventos
+- Author: Equipo SafeHome
+**Criterios aplicados**
+ 
+- Los títulos usan el nombre del producto y la función concreta de la página.
+- Las descripciones resumen contenido real de cada vista.
+- Las keywords se relacionan con la funcionalidad observada en el sistema.
+- El autor se mantiene uniforme en todas las páginas.
 
 ### 4.2.4. Searching Systems
 
