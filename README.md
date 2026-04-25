@@ -301,7 +301,7 @@ La paleta cromática de SafeHome se compone de cinco colores principales:
 
 ![](./assets/imagen3-style-guidelines.png)
 
-![](./assets/imagen3-style-guidelines.png)
+![](./assets/imagen4-style-guidelines.png)
 
 Esta selección responde a tres necesidades del producto. Primero, transmitir seguridad y limpieza visual mediante tonos claros y neutros. Segundo, destacar acciones relevantes usando un turquesa brillante como color primario de interacción. Tercero, asegurar contraste suficiente entre texto, botones y superficies, especialmente en pantallas donde se muestra información operativa del hogar.
  
@@ -318,7 +318,7 @@ La jerarquía tipográfica definida es la siguiente:
 - Texto de párrafo: 14/20 px
 - Texto pequeño o de ayuda: 12/16 px
 
-![](./assets/imagen4-style-guidelines.png)
+![](./assets/imagen5-style-guidelines.png)
 
 Esta jerarquía permite diferenciar correctamente títulos, subtítulos, bloques descriptivos y mensajes de apoyo. En la aplicación, esto facilita la lectura rápida de estados, servicios, planes y formularios.
  
@@ -338,7 +338,7 @@ En cuanto a profundidad visual, se definieron tres niveles de sombra:
 - Sombra M: 0 px 8 px 24 px rgba(0,0,0,0.08)
 - Sombra L: 0 px 16 px 40 px rgba(0,0,0,0.12)
 
-![](./assets/imagen5-style-guidelines.png)
+![](./assets/imagen6-style-guidelines.png)
 
 Estas sombras se utilizan de forma moderada en tarjetas, bloques destacados y elementos elevados. No se aplican de forma excesiva, ya que el sistema prioriza limpieza visual y lectura clara de contenido.
  
@@ -348,7 +348,7 @@ La iconografía del sistema utiliza íconos simples, lineales y de fácil recono
  
 A nivel gráfico, SafeHome utiliza una interfaz de baja saturación en fondos y alta claridad en elementos accionables. La combinación entre fondos claros, acentos turquesa y bloques negros destacados permite jerarquizar información sin recargar la pantalla.
 
-![](./assets/imagen6-style-guidelines.png)
+![](./assets/imagen7-style-guidelines.png)
 
 **Tono de comunicación**
  
@@ -374,7 +374,143 @@ Los lineamientos generales del sistema se apoyan en los siguientes principios:
 
 ### 4.1.2. Web Style Guidelines
 
-Contenido de la sección.
+Los Web Style Guidelines de SafeHome definen las reglas visuales y de interacción aplicadas a las interfaces web del Landing Page y de la Web Application. Estas reglas aseguran consistencia entre pantallas desktop y mobile, uniformidad en los componentes y una experiencia de uso predecible. Su aplicación se basa en la guía general de estilo ya definida, adaptándola al comportamiento específico de interfaces web responsive.
+
+![](./assets/imagen8-style-guidelines.png)
+
+**Estructura visual para web**
+ 
+La estructura de pantalla utiliza una organización por bloques claramente delimitados. En el Landing Page, la interfaz se divide en secciones horizontales de navegación, presentación principal, servicios, planes y acceso. En la Web Application, la estructura cambia a un esquema más funcional, con menú lateral o navegación fija y áreas de contenido principal.
+ 
+En desktop, la distribución prioriza el uso de contenedores amplios, tarjetas alineadas y separación clara entre bloques informativos. En mobile, la estructura se reorganiza en una sola columna, manteniendo el mismo orden lógico del contenido, pero adaptando el tamaño de componentes, márgenes y jerarquías visuales.
+ 
+**Diseño responsive**
+ 
+La propuesta web de SafeHome sigue un enfoque responsive para garantizar adaptación a Desktop Web Browser y Mobile Web Browser. La interfaz mantiene la misma identidad visual en ambos formatos, pero ajusta la disposición de elementos según el ancho disponible.
+ 
+Las principales reglas de adaptación son las siguientes:
+ 
+- En desktop, los contenidos se muestran en varias columnas cuando el espacio lo permite.
+- En mobile, los bloques se apilan verticalmente.
+- Los botones principales mantienen jerarquía visual, pero reducen ancho y padding según pantalla.
+- Las tarjetas conservan estructura, aunque cambian de disposición horizontal a vertical.
+- La navegación superior simplifica la distribución de opciones en resoluciones pequeñas.
+Esto permite que el usuario encuentre la misma información y complete las mismas tareas sin depender de un único tipo de dispositivo.
+
+![](./assets/imagen9-style-guidelines.png)
+
+La navegación principal utiliza un menú visible y de acceso directo. En el Landing Page, las opciones identificadas son Inicio, Servicios, Ver planes e Iniciar sesión, acompañadas del logotipo como elemento de identidad central. Esta navegación se mantiene simple y con pocas opciones para evitar sobrecarga.
+ 
+En la aplicación web, la navegación cambia a una estructura orientada a tareas. Se observa un menú lateral con accesos como Inicio, Cámaras, Dispositivos, Eventos, Alertas, Historial y Configuración. Esta decisión responde a un entorno con mayor volumen de información y acciones frecuentes.
+ 
+Las reglas de navegación son:
+ 
+- mantener visibles las acciones principales;
+- usar etiquetas cortas y directas;
+- ubicar opciones persistentes en zonas previsibles;
+- evitar que el usuario dependa de memorizar rutas.
+
+![](./assets/imagen10-style-guidelines.png)
+
+**Botones y llamadas a la acción**
+ 
+La interfaz web define tres niveles de botones:
+ 
+- Primario, para la acción principal de la pantalla;
+- Secundario, para acciones complementarias;
+- Terciario, para acciones de menor peso visual o navegación textual.
+El botón primario usa el color turquesa como color de acción principal. El secundario emplea contorno con fondo claro. El terciario se presenta como texto con menor peso visual. Esta jerarquía facilita reconocer qué acción debe ejecutarse primero.
+ 
+También se definen estados de interacción consistentes:
+ 
+- Default
+- Hover
+- Activo
+- Deshabilitado
+En web, esto es importante porque el usuario espera retroalimentación visual al pasar el cursor, presionar o encontrar acciones no disponibles.
+
+![](./assets/imagen11-style-guidelines.png)
+
+**Formularios y campos de entrada**
+ 
+Los formularios utilizan componentes simples, con bordes redondeados y alto contraste respecto al fondo. Los tipos de campo identificados en la guía son:
+ 
+- input por defecto;
+- input con ícono;
+- dropdown.
+Las reglas aplicadas a formularios son:
+ 
+- mostrar placeholder breve;
+- mantener alineación uniforme entre campos;
+- usar separación suficiente entre inputs;
+- presentar botones de acción inmediatamente después del grupo de campos;
+- evitar textos largos dentro del formulario.
+En la pantalla de inicio de sesión, por ejemplo, se observa una estructura clara con campos de correo y contraseña, opción de recordar sesión y acceso a recuperación de contraseña. Esto responde a un patrón web estándar y fácil de reconocer.
+ 
+**Tarjetas y contenedores**
+ 
+Las tarjetas se usan como contenedores de información para servicios, planes, cámaras y accesos rápidos. Cada tarjeta presenta una jerarquía interna compuesta por título, contenido breve, ícono o imagen y acción asociada cuando corresponde.
+ 
+Las reglas para tarjetas son:
+ 
+- usar padding interno uniforme;
+- separar visualmente título, descripción y acción;
+- aplicar sombra ligera para distinguir el bloque del fondo;
+- no saturar la tarjeta con demasiadas acciones;
+- mantener consistencia de bordes y proporciones entre tarjetas del mismo tipo.
+Este patrón se aplica tanto en el Landing Page como en el dashboard de la aplicación.
+ 
+**Alertas y retroalimentación visual**
+ 
+La guía define alertas con codificación por color y por ícono. Se distinguen al menos tres casos:
+ 
+- operación exitosa;
+- advertencia;
+- error.
+Estas alertas permiten comunicar el estado del sistema sin depender solo del texto. En entornos web, esta decisión mejora la detección rápida de eventos y reduce ambigüedad al ejecutar acciones como guardar, iniciar sesión o procesar información.
+ 
+**Iconografía e imágenes**
+ 
+La iconografía empleada es lineal, simple y consistente con el tema de seguridad doméstica. Se usa para representar funciones como monitoreo, control remoto, prevención, alertas y configuración. Los íconos no compiten visualmente con los títulos ni con las acciones principales.
+ 
+Respecto a imágenes, la propuesta utiliza imágenes limpias y realistas. En el Landing Page se incluyen ilustraciones y fotografías relacionadas con el hogar y la vigilancia. Estas imágenes cumplen función de apoyo visual, no de contenido principal. Por ello, siempre se ubican subordinadas a la jerarquía funcional de la pantalla.
+
+![](./assets/imagen12-style-guidelines.png)
+
+**Jerarquía de contenido en web**
+ 
+La interfaz web de SafeHome utiliza una jerarquía visual clara basada en:
+ 
+- tamaño tipográfico;
+- contraste de color;
+- uso de bloques oscuros para destacar secciones clave;
+- separación mediante espacios en blanco;
+- agrupación por tarjetas y contenedores.
+En el Landing Page, la sección principal da prioridad al nombre del producto, propuesta de valor y botón principal. Luego se presentan servicios y planes. En la aplicación, la prioridad cambia hacia métricas del sistema, visualización de cámaras y accesos de control rápido.
+ 
+**Criterios de interacción**
+ 
+Los principales criterios de interacción definidos para la web son:
+ 
+- las acciones primarias deben ser visibles sin esfuerzo;
+- el usuario debe identificar fácilmente dónde hacer clic;
+- cada estado interactivo debe tener respuesta visual;
+- la navegación debe requerir el menor número de pasos posible;
+- los elementos interactivos deben mantener tamaño suficiente para uso en pantallas táctiles y de escritorio.
+Estos criterios son consistentes con un producto orientado a monitoreo y control del hogar, donde la rapidez de reconocimiento y la claridad operativa son prioritarias.
+ 
+**Accesibilidad e inclusión en web**
+ 
+La propuesta considera reglas básicas de diseño inclusivo aplicadas a la interfaz web:
+ 
+- contraste suficiente entre fondo y texto;
+- jerarquías tipográficas diferenciadas;
+- botones con tamaño reconocible;
+- etiquetas claras en navegación y formularios;
+- distribución ordenada del contenido para reducir carga cognitiva.
+Estas decisiones no modifican la estética del sistema, pero sí mejoran su uso por parte de personas con distintas condiciones de lectura, atención o acceso desde distintos dispositivos.
+
+![](./assets/imagen13-style-guidelines.png)
 
 ## 4.2. Information Architecture
 
