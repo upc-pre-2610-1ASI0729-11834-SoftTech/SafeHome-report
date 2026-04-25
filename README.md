@@ -287,8 +287,6 @@ accesible y en la tranquilidad real de los usuarios.
 
 ## 2.2. Entrevistas
 
-Contenido de la sección.
-
 ## 2.2.1. Diseño de entrevistas
 
 ### Segmento 1: Jóvenes adultos independientes
