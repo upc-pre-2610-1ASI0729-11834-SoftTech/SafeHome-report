@@ -807,7 +807,36 @@ El wireframe incorpora la pantalla de contacto como parte del flujo del Landing 
 
 ### 4.3.2. Landing Page Mock-up
 
-Contenido de la sección.
+Aquí presentamos los mock-ups del Landing Page de SafeHome para desktop y mobile. La guía indica que en esta parte debe evidenciarse la aplicación de principios de diseño, arquitectura de información y del Design System definido para el producto.
+ 
+Los mock-ups desarrollan visualmente los wireframes y muestran la versión con color, tipografía, imágenes, iconografía y componentes finales.
+ 
+**Mock-up Desktop**
+ 
+01. Landing Inicio
+Se aplica un bloque visual oscuro para destacar la identidad del producto y la propuesta principal. El botón turquesa resalta la acción prioritaria. A la derecha se ubica la ilustración del hogar, que cumple función de apoyo visual.
+
+![](./assets/Landing-imagen5.png)
+ 
+3. Landing Servicios
+La sección utiliza una combinación de fondo claro, tarjetas informativas, iconografía lineal y una imagen de apoyo. El título de la sección se resalta con alto contraste y la información se distribuye en bloques fáciles de escanear.
+
+![](./assets/Landing-imagen6.png)
+ 
+5. Landing Planes
+Los planes Basic Plan y Premium se diferencian mediante contraste visual y estructura de tarjetas. Cada plan presenta beneficios listados, precio y botón de acción en la parte inferior.
+
+![](./assets/Landing-imagen7.png)
+ 
+**Relación entre wireframe y mock-up**
+ 
+El mock-up mantiene la estructura definida en el wireframe. La diferencia está en el nivel de fidelidad visual. Se conservan:
+ 
+- las mismas vistas;
+- el mismo orden de contenido;
+- las mismas acciones;
+- la misma lógica de navegación.
+El cambio principal es la incorporación de color, imágenes, tipografía aplicada y estilo final de botones, tarjetas y formularios.
 
 ## 4.4. Web Applications UX/UI Design
 
