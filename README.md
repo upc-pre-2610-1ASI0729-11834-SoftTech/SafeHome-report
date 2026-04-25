@@ -1844,56 +1844,602 @@ en el dominio de la seguridad doméstica inteligente:
 Contenido de la sección.
 
 ### 4.1.1. General Style Guidelines
+La guía general de estilo de SafeHome establece los lineamientos visuales base que se aplicarán en el Landing Page y en la Web Application. Su objetivo es mantener consistencia gráfica, legibilidad, reconocimiento de marca y uniformidad en los componentes de interfaz. Para ello, se definieron reglas comunes de branding, color, tipografía, espaciado y lenguaje visual, de modo que todos los entregables del proyecto utilicen el mismo sistema de diseño.
 
-Contenido de la sección.
+![](./assets/imagen1-style-guidelines.png)
+
+Branding
+La identidad visual de SafeHome se construye a partir de un logotipo compuesto por un isotipo de casa con contorno circular y el nombre de la marca en una composición horizontal. Este recurso gráfico comunica de forma directa los conceptos de hogar, protección y monitoreo. El logotipo se utiliza como elemento principal de reconocimiento visual en pantallas de inicio, barras de navegación, formularios de acceso y secciones de presentación del servicio.
+Para conservar consistencia visual, el sistema considera un uso uniforme del logo en relación con el espaciado. La unidad base tomada para márgenes y áreas de seguridad es la altura del ícono del logotipo. De este modo, se evita que otros elementos invadan su área visual y se garantiza una correcta legibilidad en diferentes tamaños de pantalla.
+
+![](./assets/imagen2-style-guidelines.png)
+
+**Paleta de colores**
+ 
+La paleta cromática de SafeHome se compone de cinco colores principales:
+ 
+- `#A7F3E4` para fondos suaves y superficies secundarias.
+- `#00E5C3` como color de acento y principal llamada visual.
+- `#0D0D0D` para títulos, bloques destacados y contraste fuerte.
+- `#6B7280` para texto secundario y elementos de apoyo.
+- `#F5F5F5` para fondos neutros y separación visual de secciones.
+
+![](./assets/imagen3-style-guidelines.png)
+
+![](./assets/imagen4-style-guidelines.png)
+
+Esta selección responde a tres necesidades del producto. Primero, transmitir seguridad y limpieza visual mediante tonos claros y neutros. Segundo, destacar acciones relevantes usando un turquesa brillante como color primario de interacción. Tercero, asegurar contraste suficiente entre texto, botones y superficies, especialmente en pantallas donde se muestra información operativa del hogar.
+ 
+**Tipografía**
+ 
+La familia tipográfica seleccionada es Arial Rounded MT Bold. Esta tipografía se utiliza en títulos, botones y elementos principales de interfaz. Su elección responde a dos criterios: buena legibilidad en tamaños medianos y pequeños, y una forma visual amigable que reduce rigidez excesiva sin perder claridad.
+ 
+La jerarquía tipográfica definida es la siguiente:
+ 
+- H1: 36/44 px
+- H2: 24/32 px
+- H3: 18/26 px
+- Texto destacado: 16/24 px
+- Texto de párrafo: 14/20 px
+- Texto pequeño o de ayuda: 12/16 px
+
+![](./assets/imagen5-style-guidelines.png)
+
+Esta jerarquía permite diferenciar correctamente títulos, subtítulos, bloques descriptivos y mensajes de apoyo. En la aplicación, esto facilita la lectura rápida de estados, servicios, planes y formularios.
+ 
+**Espaciado**
+ 
+El sistema de espaciado se basa en una retícula de múltiplos de **8 px**. Los valores establecidos son 8 px, 16 px, 24 px, 32 px, 48 px, 64 px, 80 px y 96 px. Esta decisión permite mantener alineación consistente entre bloques, separación uniforme entre componentes y una distribución visual predecible en resoluciones desktop y mobile.
+ 
+El uso de una escala fija también facilita la construcción de layouts reutilizables. Por ejemplo, los espacios entre tarjetas, botones, grupos de texto y contenedores siguen una lógica repetible, lo cual simplifica el prototipado y la implementación posterior en desarrollo.
+ 
+**Bordes, radios y sombras**
+ 
+Para la geometría de la interfaz se definieron radios de borde de 4 px, 8 px, 12 px, 16 px, 24 px y 32 px. Esta escala permite adaptar el nivel de redondeo según el tipo de componente. Los campos de formulario, botones y tarjetas usan bordes redondeados para mantener coherencia con la tipografía y con la identidad visual general.
+ 
+En cuanto a profundidad visual, se definieron tres niveles de sombra:
+ 
+- Sombra S: 0 px 2 px 8 px rgba(0,0,0,0.06)
+- Sombra M: 0 px 8 px 24 px rgba(0,0,0,0.08)
+- Sombra L: 0 px 16 px 40 px rgba(0,0,0,0.12)
+
+![](./assets/imagen6-style-guidelines.png)
+
+Estas sombras se utilizan de forma moderada en tarjetas, bloques destacados y elementos elevados. No se aplican de forma excesiva, ya que el sistema prioriza limpieza visual y lectura clara de contenido.
+ 
+**Lenguaje visual e iconografía**
+ 
+La iconografía del sistema utiliza íconos simples, lineales y de fácil reconocimiento. Entre ellos se incluyen referencias a hogar, seguridad, alertas, configuración, monitoreo y acciones de usuario. Este estilo evita ambigüedad visual y mantiene compatibilidad con el enfoque funcional de la plataforma.
+ 
+A nivel gráfico, SafeHome utiliza una interfaz de baja saturación en fondos y alta claridad en elementos accionables. La combinación entre fondos claros, acentos turquesa y bloques negros destacados permite jerarquizar información sin recargar la pantalla.
+
+![](./assets/imagen7-style-guidelines.png)
+
+**Tono de comunicación**
+ 
+El tono de comunicación definido para SafeHome es **serio, claro, respetuoso y directo**. No se emplea un lenguaje irreverente ni decorativo. La redacción de botones, mensajes, estados y alertas usa frases breves y funcionales.
+ 
+En la dimensión de estilo comunicacional, la propuesta se ubica así:
+ 
+- Serio antes que divertido.
+- Semiformal antes que casual.
+- Respetuoso antes que irreverente.
+- Sereno antes que entusiasta.
+Este criterio es coherente con el tipo de producto, ya que SafeHome gestiona información relacionada con monitoreo del hogar, prevención y control. Por ello, la interfaz debe transmitir confianza operativa y no entretenimiento.
+ 
+**Principios de diseño aplicados**
+ 
+Los lineamientos generales del sistema se apoyan en los siguientes principios:
+ 
+- Consistencia: mismo uso de colores, tipografía, iconos y componentes en todo el ecosistema.
+- Claridad visual: jerarquía evidente entre títulos, contenido, acciones principales y estados del sistema.
+- Legibilidad: tamaños tipográficos y contrastes adecuados para lectura rápida.
+- Simplicidad funcional: reducción de elementos innecesarios y priorización de acciones concretas.
+- Reconocimiento inmediato: uso estable del logo, la paleta y los patrones visuales en todas las pantallas.
 
 ### 4.1.2. Web Style Guidelines
 
-Contenido de la sección.
+Los Web Style Guidelines de SafeHome definen las reglas visuales y de interacción aplicadas a las interfaces web del Landing Page y de la Web Application. Estas reglas aseguran consistencia entre pantallas desktop y mobile, uniformidad en los componentes y una experiencia de uso predecible. Su aplicación se basa en la guía general de estilo ya definida, adaptándola al comportamiento específico de interfaces web responsive.
+
+![](./assets/imagen8-style-guidelines.png)
+
+**Estructura visual para web**
+ 
+La estructura de pantalla utiliza una organización por bloques claramente delimitados. En el Landing Page, la interfaz se divide en secciones horizontales de navegación, presentación principal, servicios, planes y acceso. En la Web Application, la estructura cambia a un esquema más funcional, con menú lateral o navegación fija y áreas de contenido principal.
+ 
+En desktop, la distribución prioriza el uso de contenedores amplios, tarjetas alineadas y separación clara entre bloques informativos. En mobile, la estructura se reorganiza en una sola columna, manteniendo el mismo orden lógico del contenido, pero adaptando el tamaño de componentes, márgenes y jerarquías visuales.
+ 
+**Diseño responsive**
+ 
+La propuesta web de SafeHome sigue un enfoque responsive para garantizar adaptación a Desktop Web Browser y Mobile Web Browser. La interfaz mantiene la misma identidad visual en ambos formatos, pero ajusta la disposición de elementos según el ancho disponible.
+ 
+Las principales reglas de adaptación son las siguientes:
+ 
+- En desktop, los contenidos se muestran en varias columnas cuando el espacio lo permite.
+- En mobile, los bloques se apilan verticalmente.
+- Los botones principales mantienen jerarquía visual, pero reducen ancho y padding según pantalla.
+- Las tarjetas conservan estructura, aunque cambian de disposición horizontal a vertical.
+- La navegación superior simplifica la distribución de opciones en resoluciones pequeñas.
+Esto permite que el usuario encuentre la misma información y complete las mismas tareas sin depender de un único tipo de dispositivo.
+
+![](./assets/imagen9-style-guidelines.png)
+
+La navegación principal utiliza un menú visible y de acceso directo. En el Landing Page, las opciones identificadas son Inicio, Servicios, Ver planes e Iniciar sesión, acompañadas del logotipo como elemento de identidad central. Esta navegación se mantiene simple y con pocas opciones para evitar sobrecarga.
+ 
+En la aplicación web, la navegación cambia a una estructura orientada a tareas. Se observa un menú lateral con accesos como Inicio, Cámaras, Dispositivos, Eventos, Alertas, Historial y Configuración. Esta decisión responde a un entorno con mayor volumen de información y acciones frecuentes.
+ 
+Las reglas de navegación son:
+ 
+- mantener visibles las acciones principales;
+- usar etiquetas cortas y directas;
+- ubicar opciones persistentes en zonas previsibles;
+- evitar que el usuario dependa de memorizar rutas.
+
+![](./assets/imagen10-style-guidelines.png)
+
+**Botones y llamadas a la acción**
+ 
+La interfaz web define tres niveles de botones:
+ 
+- Primario, para la acción principal de la pantalla;
+- Secundario, para acciones complementarias;
+- Terciario, para acciones de menor peso visual o navegación textual.
+El botón primario usa el color turquesa como color de acción principal. El secundario emplea contorno con fondo claro. El terciario se presenta como texto con menor peso visual. Esta jerarquía facilita reconocer qué acción debe ejecutarse primero.
+ 
+También se definen estados de interacción consistentes:
+ 
+- Default
+- Hover
+- Activo
+- Deshabilitado
+En web, esto es importante porque el usuario espera retroalimentación visual al pasar el cursor, presionar o encontrar acciones no disponibles.
+
+![](./assets/imagen11-style-guidelines.png)
+
+**Formularios y campos de entrada**
+ 
+Los formularios utilizan componentes simples, con bordes redondeados y alto contraste respecto al fondo. Los tipos de campo identificados en la guía son:
+ 
+- input por defecto;
+- input con ícono;
+- dropdown.
+Las reglas aplicadas a formularios son:
+ 
+- mostrar placeholder breve;
+- mantener alineación uniforme entre campos;
+- usar separación suficiente entre inputs;
+- presentar botones de acción inmediatamente después del grupo de campos;
+- evitar textos largos dentro del formulario.
+En la pantalla de inicio de sesión, por ejemplo, se observa una estructura clara con campos de correo y contraseña, opción de recordar sesión y acceso a recuperación de contraseña. Esto responde a un patrón web estándar y fácil de reconocer.
+ 
+**Tarjetas y contenedores**
+ 
+Las tarjetas se usan como contenedores de información para servicios, planes, cámaras y accesos rápidos. Cada tarjeta presenta una jerarquía interna compuesta por título, contenido breve, ícono o imagen y acción asociada cuando corresponde.
+ 
+Las reglas para tarjetas son:
+ 
+- usar padding interno uniforme;
+- separar visualmente título, descripción y acción;
+- aplicar sombra ligera para distinguir el bloque del fondo;
+- no saturar la tarjeta con demasiadas acciones;
+- mantener consistencia de bordes y proporciones entre tarjetas del mismo tipo.
+Este patrón se aplica tanto en el Landing Page como en el dashboard de la aplicación.
+ 
+**Alertas y retroalimentación visual**
+ 
+La guía define alertas con codificación por color y por ícono. Se distinguen al menos tres casos:
+ 
+- operación exitosa;
+- advertencia;
+- error.
+Estas alertas permiten comunicar el estado del sistema sin depender solo del texto. En entornos web, esta decisión mejora la detección rápida de eventos y reduce ambigüedad al ejecutar acciones como guardar, iniciar sesión o procesar información.
+ 
+**Iconografía e imágenes**
+ 
+La iconografía empleada es lineal, simple y consistente con el tema de seguridad doméstica. Se usa para representar funciones como monitoreo, control remoto, prevención, alertas y configuración. Los íconos no compiten visualmente con los títulos ni con las acciones principales.
+ 
+Respecto a imágenes, la propuesta utiliza imágenes limpias y realistas. En el Landing Page se incluyen ilustraciones y fotografías relacionadas con el hogar y la vigilancia. Estas imágenes cumplen función de apoyo visual, no de contenido principal. Por ello, siempre se ubican subordinadas a la jerarquía funcional de la pantalla.
+
+![](./assets/imagen12-style-guidelines.png)
+
+**Jerarquía de contenido en web**
+ 
+La interfaz web de SafeHome utiliza una jerarquía visual clara basada en:
+ 
+- tamaño tipográfico;
+- contraste de color;
+- uso de bloques oscuros para destacar secciones clave;
+- separación mediante espacios en blanco;
+- agrupación por tarjetas y contenedores.
+En el Landing Page, la sección principal da prioridad al nombre del producto, propuesta de valor y botón principal. Luego se presentan servicios y planes. En la aplicación, la prioridad cambia hacia métricas del sistema, visualización de cámaras y accesos de control rápido.
+ 
+**Criterios de interacción**
+ 
+Los principales criterios de interacción definidos para la web son:
+ 
+- las acciones primarias deben ser visibles sin esfuerzo;
+- el usuario debe identificar fácilmente dónde hacer clic;
+- cada estado interactivo debe tener respuesta visual;
+- la navegación debe requerir el menor número de pasos posible;
+- los elementos interactivos deben mantener tamaño suficiente para uso en pantallas táctiles y de escritorio.
+Estos criterios son consistentes con un producto orientado a monitoreo y control del hogar, donde la rapidez de reconocimiento y la claridad operativa son prioritarias.
+ 
+**Accesibilidad e inclusión en web**
+ 
+La propuesta considera reglas básicas de diseño inclusivo aplicadas a la interfaz web:
+ 
+- contraste suficiente entre fondo y texto;
+- jerarquías tipográficas diferenciadas;
+- botones con tamaño reconocible;
+- etiquetas claras en navegación y formularios;
+- distribución ordenada del contenido para reducir carga cognitiva.
+Estas decisiones no modifican la estética del sistema, pero sí mejoran su uso por parte de personas con distintas condiciones de lectura, atención o acceso desde distintos dispositivos.
+
+![](./assets/imagen13-style-guidelines.png)
 
 ## 4.2. Information Architecture
 
-Contenido de la sección.
-
 ### 4.2.1. Organization Systems
 
-Contenido de la sección.
+La arquitectura de información de SafeHome se organiza combinando sistemas de organización jerárquica, secuencial y, en algunos casos, cronológica o matricial, según el tipo de información y la tarea que el usuario necesita realizar. Esta decisión responde a la necesidad de ofrecer una experiencia clara tanto en la zona pública del producto como en la zona privada de monitoreo del hogar. SafeHome cuenta con una parte informativa orientada a los visitantes y una parte operativa enfocada en usuarios que administran dispositivos, revisan alertas y monitorean eventos de seguridad en tiempo real.
+ 
+En la Landing Page se aplicará principalmente una organización jerárquica, ya que el contenido se mostrará de acuerdo con su nivel de importancia visual: primero la propuesta de valor, luego los beneficios del sistema, los servicios disponibles, la explicación de funcionamiento, los testimonios, las preguntas frecuentes y finalmente la información de contacto. Asimismo, en la sección "Cómo funciona" se empleará una organización secuencial, ya que el objetivo es explicar paso a paso cómo SafeHome monitorea el hogar y genera alertas. En esta zona pública, la información se categorizará por tópicos, separando claramente beneficios, servicios, testimonios, preguntas frecuentes y contacto. Adicionalmente, parte del contenido podrá presentarse según audiencia, considerando que el proyecto está dirigido a jóvenes adultos independientes, familias urbanas y propietarios de inmuebles en alquiler.
+ 
+En el proceso de registro e inicio de sesión se utilizará una organización secuencial, ya que el usuario debe seguir un flujo ordenado para comenzar a usar la plataforma: acceder, registrarse o iniciar sesión e ingresar al sistema. Esta estructura paso a paso facilita la comprensión del recorrido inicial y reduce errores en el acceso.
+ 
+Dentro de la aplicación web principal, la organización será mayormente jerárquica y por tópicos. El dashboard principal priorizará visualmente la información crítica, mostrando primero el estado general del hogar y las alertas más relevantes. A partir de este núcleo se agruparán los módulos en categorías funcionales, tales como dispositivos de seguridad, estado del hogar, alertas, eventos en tiempo real, historial, perfil/configuración y soporte. Esta categorización por tópicos permite que el usuario identifique rápidamente dónde realizar cada acción principal dentro del sistema.
+ 
+En el módulo de eventos e historial se aplicará una categorización cronológica, ya que los incidentes de seguridad deben mostrarse en función de la fecha y hora en que ocurrieron. Además, estos eventos también podrán organizarse por tópicos, diferenciando el tipo de incidente detectado, como intrusión, humo, fuga de gas o anomalías en los servicios del hogar. En caso de presentarse mediante tablas o paneles comparativos, también podrá emplearse una organización matricial, relacionando variables como dispositivo, tipo de evento, estado y momento de ocurrencia.
+ 
+[https://www.figma.com/board/ekvGCZkbyE4cyCkpUJp4BR/Untitled?node-id=0-1&t=TtPDIWI59f4syduq-1](https://www.figma.com/board/ekvGCZkbyE4cyCkpUJp4BR/Untitled?node-id=0-1&t=TtPDIWI59f4syduq-1)
+
+![](./assets/Organization-Systems.png)
 
 ### 4.2.2. Labeling Systems
 
-Contenido de la sección.
+El sistema de etiquetado de SafeHome se define con base en claridad, brevedad y consistencia. Las etiquetas se redactan con el menor número de palabras posible para evitar ambigüedad y reducir el tiempo de reconocimiento por parte del usuario. Este criterio sigue la indicación de representar los conjuntos de información mediante etiquetas simples y asociaciones claras entre secciones, acciones y contenidos.
+ 
+**Landing Page**
+ 
+En el Landing Page se emplean etiquetas de exploración y conversión. Las principales son:
+ 
+- Inicio
+- Servicios
+- Ver planes
+- Iniciar sesión
+Estas etiquetas aparecen en la navegación principal y representan secciones concretas del contenido. "Inicio" remite a la portada del producto. "Servicios" agrupa las funcionalidades principales ofrecidas por la plataforma. "Ver planes" dirige a la comparación comercial entre opciones disponibles. "Iniciar sesión" conecta al visitante con la parte operativa del sistema.
+ 
+Dentro del contenido también se utilizan etiquetas breves asociadas al producto y a la conversión:
+ 
+- SafeHome
+- Monitoreo inteligente 360°
+- FREE (essential)
+- PREMIUM
+- Empieza ahora
+- Comparar planes
+Estas etiquetas no describen en exceso; solo identifican bloques, beneficios o acciones principales.
+ 
+**Web Application**
+ 
+En la Web Application se utilizan etiquetas operativas orientadas a módulos. Las principales son:
+ 
+- Inicio
+- Cámaras
+- Dispositivos
+- Eventos
+- Alertas
+- Historial
+- Configuración
+- Cerrar sesión
+Estas etiquetas corresponden a grupos funcionales del sistema y permiten acceder a vistas específicas del panel de control. Cada etiqueta mantiene relación directa con el contenido mostrado dentro del módulo.
+ 
+**Formularios y acciones**
+ 
+En formularios y acciones de acceso se usan etiquetas cortas y reconocibles:
+ 
+- Correo electrónico
+- Contraseña
+- Recordarme
+- ¿Olvidaste tu contraseña?
+- Crear cuenta
+- Iniciar sesión
+En botones y CTAs se mantiene la misma lógica:
+ 
+- Empieza ahora
+- Ver planes
+- Comparar planes
+- Crear cuenta
+- Iniciar sesión
+**Principios aplicados**
+ 
+- Mínimo número de palabras: cada etiqueta nombra una sección o acción sin explicaciones largas.
+- Consistencia semántica: el mismo concepto mantiene el mismo nombre en toda la interfaz.
+- Diferenciación por contexto: en el Landing Page predominan etiquetas de exploración; en la aplicación predominan etiquetas operativas.
+- Relación directa etiqueta-acción: el usuario puede anticipar qué encontrará al hacer clic.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Contenido de la sección.
+Para SafeHome se definen SEO Tags y Meta Tags para las principales páginas del Landing Page y para las vistas base de la Web Application. Como mínimo se incluyen Title, Meta Description, Keywords y Author.
+ 
+**Landing Page - Inicio**
+ 
+- Title: SafeHome | Seguridad y monitoreo inteligente para el hogar
+- Meta Description: SafeHome es una plataforma web de seguridad doméstica que permite supervisar el hogar, conocer servicios y revisar planes desde una interfaz clara y responsive.
+- Keywords: SafeHome, seguridad del hogar, monitoreo inteligente, hogar seguro, vigilancia web, plataforma de seguridad doméstica
+- Author: Equipo SafeHome
+**Landing Page - Servicios**
+ 
+- Title: Servicios | SafeHome
+- Meta Description: Conoce los servicios de SafeHome para monitoreo del hogar, control de dispositivos y prevención de incidentes desde una solución web de seguridad doméstica.
+- Keywords: servicios SafeHome, monitoreo del hogar, control de dispositivos, prevención de incidentes, seguridad doméstica, vigilancia inteligente
+- Author: Equipo SafeHome
+**Landing Page - Planes**
+ 
+- Title: Planes | SafeHome
+- Meta Description: Revisa los planes Free y Premium de SafeHome y compara sus características para elegir la opción adecuada para tu hogar.
+- Keywords: planes SafeHome, plan free, plan premium, precios seguridad hogar, monitoreo doméstico, suscripción SafeHome
+- Author: Equipo SafeHome
+**Web Application - Iniciar sesión**
+ 
+- Title: Iniciar sesión | SafeHome
+- Meta Description: Accede a SafeHome para gestionar cámaras, dispositivos, alertas y eventos del hogar desde una plataforma centralizada.
+- Keywords: login SafeHome, iniciar sesión SafeHome, gestión del hogar, alertas de seguridad, cámaras y dispositivos
+- Author: Equipo SafeHome
+**Web Application - Dashboard**
+ 
+- Title: Dashboard | SafeHome
+- Meta Description: Visualiza el estado general del hogar con el panel de control de SafeHome mediante cámaras, dispositivos, alertas e historial.
+- Keywords: dashboard SafeHome, panel de control, cámaras del hogar, dispositivos inteligentes, alertas del hogar, historial de eventos
+- Author: Equipo SafeHome
+**Criterios aplicados**
+ 
+- Los títulos usan el nombre del producto y la función concreta de la página.
+- Las descripciones resumen contenido real de cada vista.
+- Las keywords se relacionan con la funcionalidad observada en el sistema.
+- El autor se mantiene uniforme en todas las páginas.
 
 ### 4.2.4. Searching Systems
 
-Contenido de la sección.
+El sistema de búsqueda de SafeHome se plantea de forma distinta para el Landing Page y para la Web Application. La guía pide especificar qué medios de ayuda se brindarán al usuario para buscar datos, qué filtros tendrá y cómo se verán los resultados.
+ 
+**Landing Page**
+ 
+En el Landing Page no se implementa una barra de búsqueda principal. Esto se debe a que el volumen de información es reducido y está organizado en bloques directos: inicio, servicios, planes e inicio de sesión. Por ello, la localización del contenido se resuelve mediante navegación superior, botones de acción y scroll vertical.
+ 
+La ausencia de buscador en esta parte no afecta la localización del contenido porque la arquitectura del Landing Page es corta y secuencial.
+ 
+**Web Application**
+ 
+En la Web Application sí se propone búsqueda dentro de módulos específicos del sistema. El objetivo es ubicar información operativa sin recorrer manualmente todas las secciones.
+ 
+Búsqueda en Cámaras: permite localizar cámaras por nombre de cámara, ambiente y estado. Ejemplos de valores: **Sala**, **Entrada**, **Cocina**, **Activa**, **Desconectada**.
+ 
+Búsqueda en Dispositivos: permite localizar dispositivos por nombre, tipo de dispositivo y estado de conexión. Ejemplos: sensor, alarma, cámara, foco, activo, inactivo.
+ 
+Búsqueda en Eventos y Alertas: permite localizar registros por fecha, tipo de evento, prioridad y estado. Ejemplos: alerta crítica, evento resuelto, pendiente, reciente.
+ 
+**Filtros propuestos**
+ 
+Los filtros principales del sistema son:
+ 
+- **Estado**
+- **Tipo**
+- **Fecha**
+- **Ambiente**
+- **Prioridad**
+Estos filtros se aplican según el módulo. No todos aparecen en todas las vistas.
+ 
+**Visualización de resultados**
+ 
+Los resultados se muestran en tarjetas o listados según el contenido del módulo. Cada resultado debe presentar como mínimo:
+ 
+- nombre o título del elemento;
+- estado actual;
+- indicador visual;
+- referencia temporal cuando corresponda.
+En alertas y eventos, los resultados se ordenan por criterio temporal. En cámaras y dispositivos, los resultados se muestran agrupados por módulo y con prioridad visual al estado del elemento.
+ 
+**Criterios aplicados**
+ 
+- búsqueda orientada a tareas;
+- filtros simples y visibles;
+- resultados con lectura rápida;
+- separación por módulo para evitar sobrecarga.
 
 ### 4.2.5. Navigation Systems
 
-Contenido de la sección.
+El sistema de navegación de SafeHome define las acciones y técnicas mediante las cuales el usuario recorre el Landing Page y accede a las funciones de la Web Application. Esta sección debe explicar cómo los usuarios irán avanzando por el contenido y cómo las rutas principales apoyan el cumplimiento de sus objetivos.
+ 
+**Landing Page**
+ 
+El Landing Page utiliza un **menú superior visible** con las siguientes opciones:
+ 
+- **Inicio**
+- **Servicios**
+- **Ver planes**
+- **Iniciar sesión**
+Esta navegación superior permite acceso directo a las partes principales del sitio y evita menús profundos. El usuario puede desplazarse entre secciones clave del producto sin abandonar el flujo general de exploración.
+ 
+Técnicas de navegación en el Landing Page:
+ 
+- **Navegación global superior:** se mantiene visible en la parte superior y concentra las rutas principales de exploración.
+- **Navegación secuencial por scroll:** el contenido se organiza verticalmente desde la presentación del producto hasta la comparación de planes y el acceso a login.
+- **CTA contextuales:** botones como **Empieza ahora** y **Ver planes** aceleran el avance hacia acciones de conversión.
+**Web Application**
+ 
+La Web Application utiliza un **menú lateral persistente** para el acceso a módulos. Las opciones principales observadas en el sistema son:
+ 
+- **Inicio**
+- **Cámaras**
+- **Dispositivos**
+- **Eventos**
+- **Alertas**
+- **Historial**
+- **Configuración**
+- **Cerrar sesión**
+Esta navegación lateral mantiene visibles los módulos más importantes del sistema mientras el usuario opera dentro del dashboard. El cambio entre secciones se realiza sin romper el contexto general del panel.
+ 
+Técnicas de navegación en la Web Application:
+ 
+- **Sidebar persistente:** permite pasar de un módulo a otro de forma directa.
+- **Dashboard como nodo principal:** la vista de inicio concentra accesos rápidos, estados generales y resumen del sistema.
+- **Jerarquía por prioridad operativa:** las funciones relacionadas con monitoreo, cámaras y alertas se ubican en primer nivel.
+**Mobile Web**
+ 
+En la versión mobile del Landing Page, la navegación mantiene las mismas opciones principales, pero reorganizadas en un formato compacto y de lectura rápida. La estructura sigue siendo secuencial y vertical, priorizando scroll continuo, botones amplios y bloques apilados.
+ 
+**Criterios aplicados**
+ 
+- pocas opciones por nivel;
+- rutas directas;
+- navegación visible;
+- estructura consistente entre desktop y mobile;
+- prioridad a acciones principales y módulos clave.
 
 ## 4.3. Landing Page UI Design
 
-Contenido de la sección.
+La propuesta de UI del Landing Page de SafeHome traduce las decisiones del Design System y de la arquitectura de información a una interfaz visual concreta. Según la guía, esta sección debe iniciar explicando cómo las decisiones de diseño y organización del contenido se convierten en una propuesta de interfaz para el Landing Page.
+ 
+El Landing Page de SafeHome se organiza en una secuencia clara de vistas: Inicio, Servicios, Planes e Iniciar sesión. Esta estructura responde a un recorrido corto: presentación del producto, explicación de funcionalidades, comparación comercial y acceso a la plataforma.
+ 
+**Estructura visual general**
+ 
+La propuesta utiliza:
+ 
+- encabezado con navegación principal;
+- bloques de contenido separados por secciones;
+- tarjetas para agrupar información;
+- botones de llamada a la acción;
+- imágenes e ilustraciones de apoyo;
+- adaptación responsive para desktop y mobile.
+La primera vista presenta la marca SafeHome, una breve propuesta de valor y un botón de acción principal. La segunda vista muestra los servicios del sistema mediante tarjetas informativas e íconos. La tercera vista compara los planes disponibles. La cuarta vista permite acceder al sistema mediante un formulario de inicio de sesión.
+ 
+**Aplicación del Design System**
+ 
+La UI aplica directamente la guía de estilo ya definida:
+ 
+- color turquesa para acciones principales;
+- bloques oscuros para resaltar información importante;
+- fondos claros para lectura del contenido;
+- tipografía uniforme en títulos, subtítulos y botones;
+- bordes redondeados y tarjetas consistentes.
+**Jerarquía de contenido**
+ 
+La jerarquía visual sigue este orden:
+ 
+- marca y propuesta principal;
+- beneficios y servicios;
+- comparación de planes;
+- acceso al sistema.
+Este orden se mantiene tanto en desktop como en mobile, cambiando solo la distribución espacial de los elementos.
+ 
+**Adaptación responsive**
+ 
+En desktop, la interfaz aprovecha mayor ancho para mostrar contenido en paralelo. En mobile, los mismos bloques se apilan verticalmente. No se cambia el contenido principal; solo se reorganiza la disposición para mantener legibilidad y continuidad de navegación.
 
 ### 4.3.1. Landing Page Wireframe
 
-Contenido de la sección.
+Esta sección presenta los wireframes del Landing Page para Desktop Web Browser y Mobile Web Browser. La guía indica que aquí debe evidenciarse la aplicación de principios de diseño, arquitectura de información y organización del contenido.
+ 
+Los wireframes del Landing Page de SafeHome están compuestos por cuatro vistas principales:
+ 
+- 01. Landing Inicio
+- 02. Landing Servicios
+- 03. Landing Planes
+- 04. Iniciar sesión
+**Wireframe Desktop**
+ 
+01. Landing Inicio
+El wireframe muestra una barra superior con navegación principal y, debajo, un bloque principal dividido en dos áreas. En la primera se ubican el nombre del producto, una breve descripción y el botón Empieza ahora. En la segunda se coloca una ilustración asociada al hogar y accesos complementarios.
+
+![](./assets/Landing-imagen1.png)
+ 
+3. Landing Servicios
+El wireframe presenta una sección dedicada a los servicios del sistema. Se observa un bloque con título, subtítulo e íconos que representan funciones como detección, control y prevención. A un lado se incorpora una imagen de apoyo.
+
+![](./assets/Landing-imagen2.png)
+ 
+5. Landing Planes
+El wireframe organiza la comparación comercial mediante dos bloques: FREE (essential) y PREMIUM. Cada uno contiene lista resumida de características, precio y botón de acción.
+
+![](./assets/Landing-imagen3.png)
+ 
+7. Contáctanos
+El wireframe incorpora la pantalla de contacto como parte del flujo del Landing Page. Se observa un formulario centrado con campos sobre datos personales, correo electrónico y mensaje.
+
+![](./assets/Landing-imagen4.png)
 
 ### 4.3.2. Landing Page Mock-up
 
-Contenido de la sección.
+Aquí presentamos los mock-ups del Landing Page de SafeHome para desktop y mobile. La guía indica que en esta parte debe evidenciarse la aplicación de principios de diseño, arquitectura de información y del Design System definido para el producto.
+ 
+Los mock-ups desarrollan visualmente los wireframes y muestran la versión con color, tipografía, imágenes, iconografía y componentes finales.
+ 
+**Mock-up Desktop**
+ 
+01. Landing Inicio
+Se aplica un bloque visual oscuro para destacar la identidad del producto y la propuesta principal. El botón turquesa resalta la acción prioritaria. A la derecha se ubica la ilustración del hogar, que cumple función de apoyo visual.
+
+![](./assets/Landing-imagen5.png)
+ 
+3. Landing Servicios
+La sección utiliza una combinación de fondo claro, tarjetas informativas, iconografía lineal y una imagen de apoyo. El título de la sección se resalta con alto contraste y la información se distribuye en bloques fáciles de escanear.
+
+![](./assets/Landing-imagen6.png)
+ 
+5. Landing Planes
+Los planes Basic Plan y Premium se diferencian mediante contraste visual y estructura de tarjetas. Cada plan presenta beneficios listados, precio y botón de acción en la parte inferior.
+
+![](./assets/Landing-imagen7.png)
+ 
+**Relación entre wireframe y mock-up**
+ 
+El mock-up mantiene la estructura definida en el wireframe. La diferencia está en el nivel de fidelidad visual. Se conservan:
+ 
+- las mismas vistas;
+- el mismo orden de contenido;
+- las mismas acciones;
+- la misma lógica de navegación.
+El cambio principal es la incorporación de color, imágenes, tipografía aplicada y estilo final de botones, tarjetas y formularios.
 
 ## 4.4. Web Applications UX/UI Design
 
-Contenido de la sección.
-
 ### 4.4.1. Web Applications Wireframes
 
-Contenido de la sección.
+En esta sección se presentan los wireframes de media fidelidad para la aplicación web **SafeHome**. El diseño se ha concebido bajo un enfoque funcional y minimalista, utilizando una paleta de colores en escala de grises para centrar la validación en la estructura y usabilidad antes que en la estética visual. La propuesta garantiza una experiencia consistente tanto en entornos de escritorio como en dispositivos móviles mediante un diseño responsivo.
+ 
+- **Gestión de Acceso y Recuperación:** Este flujo se centra en la **Simplicidad**. Los formularios presentan campos claramente etiquetados con validaciones en tiempo real para reducir errores. Se incluye una pantalla de feedback para confirmar acciones exitosas, reforzando la confianza del usuario.
+
+![](./assets/Wireframe-Web-App-1.png)
+![](./assets/Wireframe-Web-App-2.png)
+![](./assets/Wireframe-Web-App-3.png)
+![](./assets/Wireframe-Web-App-4.png)
+
+- **Centro de Control e Información Global:** Es el núcleo del sistema. La **Arquitectura de Información** prioriza el estado de seguridad en la zona superior. El Dashboard utiliza tarjetas (cards) para resumir dispositivos y alertas, permitiendo una visión de 360 grados de la vivienda en una sola mirada.
+
+![](./assets/Wireframe-Web-App-5.png)
+![](./assets/Wireframe-Web-App-6.png)
+  
+- **Gestión de Ecosistema IoT:** Se aplica el principio de **Consistencia**. El uso de filtros y buscadores facilita la escalabilidad del sistema (cuando el usuario tiene muchos sensores). El flujo de registro utiliza un diseño limpio para evitar el abandono durante la configuración del hardware.
+
+![](./assets/Wireframe-Web-App-7.png)
+![](./assets/Wireframe-Web-App-8.png)
+![](./assets/Wireframe-Web-App-9.png)
+
+- **Monitorización de Alertas y Eventos:** Se diferencia visualmente el "Tiempo Real" (dinámico) del "Historial" (tabular/estático). En el detalle de alertas, se aplica **Jerarquía Visual** para destacar las recomendaciones de seguridad y acciones rápidas (atender/ignorar).
+
+![](./assets/Wireframe-Web-App-10.png)
+![](./assets/Wireframe-Web-App-11.png)
+![](./assets/Wireframe-Web-App-12.png)
+![](./assets/Wireframe-Web-App-13.png)
+![](./assets/Wireframe-Web-App-14.png)
+- **Personalización y Soporte Técnico:** La configuración está categorizada por bloques lógicos (seguridad, notificaciones, hogar) para facilitar la navegación. La sección de soporte ofrece múltiples canales de ayuda, reduciendo la fricción en caso de fallos técnicos.
+
+![](./assets/Wireframe-Web-App-15.png)
+![](./assets/Wireframe-Web-App-16.png)
+![](./assets/Wireframe-Web-App-17.png)
+![](./assets/Wireframe-Web-App-18.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
