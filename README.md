@@ -816,9 +816,44 @@ Contenido de la sección.
   <img src="assets/segmento3_1.png" width="400"/>
 </p>
 
-### 2.3.2. User Task Matrix
+## 2.3.2. User Task Matrix
 
-Contenido de la sección.
+### Segmento objetivo 1: Jóvenes adultos independientes
+
+| Tarea del usuario | Frecuencia | Importancia |
+|-------------------|------------|-------------|
+| Verificar que puertas, ventanas y accesos queden bien asegurados antes de salir | Alta | Alta |
+| Supervisar el estado del hogar cuando no se encuentra presente | Alta | Alta |
+| Detectar ingresos no autorizados o movimientos sospechosos | Alta | Alta |
+| Confirmar que no existan incidentes internos, como humo, fugas o fallas | Media | Alta |
+| Revisar rápidamente si todo está en orden al regresar a casa | Alta | Media |
+| Coordinar una acción inmediata ante una alerta o situación anómala | Media | Alta |
+
+---
+
+### Segmento objetivo 2: Familias urbanas
+
+| Tarea del usuario | Frecuencia | Importancia |
+|-------------------|------------|-------------|
+| Verificar que los accesos del hogar estén protegidos durante el día y la noche | Alta | Alta |
+| Supervisar constantemente el estado del hogar cuando la familia no está reunida en casa | Alta | Alta |
+| Detectar robos, intentos de ingreso o situaciones sospechosas | Alta | Alta |
+| Identificar incidentes internos, como humo, fugas de gas o fallas eléctricas | Alta | Alta |
+| Coordinar una respuesta rápida para proteger a los integrantes del hogar | Alta | Alta |
+| Revisar eventos o incidentes ocurridos en la vivienda para tomar decisiones | Media | Alta |
+
+---
+
+### Segmento objetivo 3: Propietarios de inmuebles en alquiler
+
+| Tarea del usuario | Frecuencia | Importancia |
+|-------------------|------------|-------------|
+| Supervisar el estado general del inmueble cuando está siendo ocupado por terceros | Alta | Alta |
+| Detectar daños, usos inadecuados o situaciones anómalas dentro de la propiedad | Alta | Alta |
+| Verificar que no existan incidentes como fugas, humo o problemas con los servicios básicos | Alta | Alta |
+| Controlar el uso adecuado de recursos como agua, luz o gas | Alta | Alta |
+| Revisar incidentes ocurridos en el inmueble para prevenir daños mayores | Alta | Alta |
+| Confirmar que la propiedad permanezca segura frente a accesos no autorizados | Media | Alta |
 
 ### 2.3.3. User Journey Mapping
 
