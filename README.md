@@ -734,7 +734,44 @@ En la versión mobile del Landing Page, la navegación mantiene las mismas opcio
 
 ## 4.3. Landing Page UI Design
 
-Contenido de la sección.
+La propuesta de UI del Landing Page de SafeHome traduce las decisiones del Design System y de la arquitectura de información a una interfaz visual concreta. Según la guía, esta sección debe iniciar explicando cómo las decisiones de diseño y organización del contenido se convierten en una propuesta de interfaz para el Landing Page.
+ 
+El Landing Page de SafeHome se organiza en una secuencia clara de vistas: Inicio, Servicios, Planes e Iniciar sesión. Esta estructura responde a un recorrido corto: presentación del producto, explicación de funcionalidades, comparación comercial y acceso a la plataforma.
+ 
+**Estructura visual general**
+ 
+La propuesta utiliza:
+ 
+- encabezado con navegación principal;
+- bloques de contenido separados por secciones;
+- tarjetas para agrupar información;
+- botones de llamada a la acción;
+- imágenes e ilustraciones de apoyo;
+- adaptación responsive para desktop y mobile.
+La primera vista presenta la marca SafeHome, una breve propuesta de valor y un botón de acción principal. La segunda vista muestra los servicios del sistema mediante tarjetas informativas e íconos. La tercera vista compara los planes disponibles. La cuarta vista permite acceder al sistema mediante un formulario de inicio de sesión.
+ 
+**Aplicación del Design System**
+ 
+La UI aplica directamente la guía de estilo ya definida:
+ 
+- color turquesa para acciones principales;
+- bloques oscuros para resaltar información importante;
+- fondos claros para lectura del contenido;
+- tipografía uniforme en títulos, subtítulos y botones;
+- bordes redondeados y tarjetas consistentes.
+**Jerarquía de contenido**
+ 
+La jerarquía visual sigue este orden:
+ 
+- marca y propuesta principal;
+- beneficios y servicios;
+- comparación de planes;
+- acceso al sistema.
+Este orden se mantiene tanto en desktop como en mobile, cambiando solo la distribución espacial de los elementos.
+ 
+**Adaptación responsive**
+ 
+En desktop, la interfaz aprovecha mayor ancho para mostrar contenido en paralelo. En mobile, los mismos bloques se apilan verticalmente. No se cambia el contenido principal; solo se reorganiza la disposición para mantener legibilidad y continuidad de navegación.
 
 ### 4.3.1. Landing Page Wireframe
 
