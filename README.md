@@ -1002,8 +1002,53 @@ plataforma, convirtiendo la gestión de estas crisis en una ventaja competitiva 
 
 ## 2.5. Ubiquitous Language
 
-Contenido de la sección.
+Con el objetivo de garantizar una comunicación efectiva entre el equipo de desarrollo de 
+SOFT TECH y los interesados del proyecto, se ha definido el siguiente lenguaje ubicuo basado 
+en el dominio de la seguridad doméstica inteligente:
 
+---
+
+### Security and Monitoring Entities (Entidades de Seguridad y Monitoreo)
+
+| Término | Definición |
+|---------|------------|
+| **IoT Sensor** *(Sensor IoT)* | Dispositivo físico especializado capaz de detectar anomalías (movimiento, humo, gas, agua) en tiempo real y enviar datos a la plataforma. |
+| **SafeHome Smart Security System** *(Sistema de Seguridad Inteligente SafeHome)* | Nombre oficial de la solución tecnológica integral basada en Internet de las Cosas para proteger el hogar. |
+| **Monitoring Dashboard** *(Dashboard de Monitoreo)* | Interfaz principal de la aplicación web donde el usuario visualiza el estado general de su hogar y sus dispositivos. |
+| **Surveillance Camera** *(Cámara de Videovigilancia)* | Dispositivo de captura de video integrado al sistema para el monitoreo visual externo e interno. |
+
+---
+
+### Events and Alerts (Eventos y Alertas)
+
+| Término | Definición |
+|---------|------------|
+| **Anomaly** *(Anomalía)* | Cualquier detección inusual realizada por los sensores, como una fuga de gas, consumo excesivo de agua o intrusión no autorizada. |
+| **Smart Alert** *(Alerta Inteligente)* | Notificación push enviada al usuario en tiempo real ante la detección de un riesgo o anomalía. |
+| **Security Event** *(Evento de Seguridad)* | Registro cronológico de una actividad detectada por el sistema que requiere atención o seguimiento. |
+| **Real-Time Notification** *(Notificación en Tiempo Real)* | Aviso inmediato generado por el sistema que permite al usuario actuar oportunamente ante un peligro. |
+
+---
+
+### Business and Plans (Negocio y Planes)
+
+| Término | Definición |
+|---------|------------|
+| **Freemium Model** *(Modelo Freemium)* | Estrategia de negocio que ofrece funciones básicas gratuitas y funciones avanzadas bajo suscripción. |
+| **Premium Subscription** *(Suscripción Premium)* | Plan de pago que incluye monitoreo avanzado 24/7, detección de fugas y asistencia técnica especializada. |
+| **DIY Approach** *(Enfoque DIY - Hazlo tú mismo)* | Filosofía de instalación autogestionada por el usuario, sin necesidad de técnicos especializados. |
+| **Comprehensive Monitoring** *(Monitoreo Integral)* | Capacidad del sistema para supervisar tanto el perímetro externo como el interior de la vivienda. |
+
+---
+
+### Roles and Segments (Roles y Segmentos)
+
+| Término | Definición |
+|---------|------------|
+| **Admin User** *(Usuario Administrador)* | Persona que posee el control total sobre la configuración de los dispositivos y la gestión de alertas. |
+| **Visitor** *(Visitante)* | Persona que navega por la Landing Page buscando información sobre los beneficios y servicios de la startup. |
+| **Independent Young Adult** *(Joven Independiente)* | Segmento objetivo que vive en departamentos urbanos y prioriza la accesibilidad y tecnología. |
+| **Property Owner** *(Propietario de Inmueble)* | Usuario que utiliza el sistema para supervisar propiedades en alquiler y evitar daños estructurales. |
 ---
 
 # Capítulo III: Requirements Specification
