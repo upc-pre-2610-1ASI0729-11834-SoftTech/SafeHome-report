@@ -840,11 +840,41 @@ El cambio principal es la incorporación de color, imágenes, tipografía aplica
 
 ## 4.4. Web Applications UX/UI Design
 
-Contenido de la sección.
-
 ### 4.4.1. Web Applications Wireframes
 
-Contenido de la sección.
+En esta sección se presentan los wireframes de media fidelidad para la aplicación web **SafeHome**. El diseño se ha concebido bajo un enfoque funcional y minimalista, utilizando una paleta de colores en escala de grises para centrar la validación en la estructura y usabilidad antes que en la estética visual. La propuesta garantiza una experiencia consistente tanto en entornos de escritorio como en dispositivos móviles mediante un diseño responsivo.
+ 
+- **Gestión de Acceso y Recuperación:** Este flujo se centra en la **Simplicidad**. Los formularios presentan campos claramente etiquetados con validaciones en tiempo real para reducir errores. Se incluye una pantalla de feedback para confirmar acciones exitosas, reforzando la confianza del usuario.
+
+![](./assets/Wireframe-Web-App-1.png)
+![](./assets/Wireframe-Web-App-2.png)
+![](./assets/Wireframe-Web-App-3.png)
+![](./assets/Wireframe-Web-App-4.png)
+
+- **Centro de Control e Información Global:** Es el núcleo del sistema. La **Arquitectura de Información** prioriza el estado de seguridad en la zona superior. El Dashboard utiliza tarjetas (cards) para resumir dispositivos y alertas, permitiendo una visión de 360 grados de la vivienda en una sola mirada.
+
+![](./assets/Wireframe-Web-App-5.png)
+![](./assets/Wireframe-Web-App-6.png)
+  
+- **Gestión de Ecosistema IoT:** Se aplica el principio de **Consistencia**. El uso de filtros y buscadores facilita la escalabilidad del sistema (cuando el usuario tiene muchos sensores). El flujo de registro utiliza un diseño limpio para evitar el abandono durante la configuración del hardware.
+
+![](./assets/Wireframe-Web-App-7.png)
+![](./assets/Wireframe-Web-App-8.png)
+![](./assets/Wireframe-Web-App-9.png)
+
+- **Monitorización de Alertas y Eventos:** Se diferencia visualmente el "Tiempo Real" (dinámico) del "Historial" (tabular/estático). En el detalle de alertas, se aplica **Jerarquía Visual** para destacar las recomendaciones de seguridad y acciones rápidas (atender/ignorar).
+
+![](./assets/Wireframe-Web-App-10.png)
+![](./assets/Wireframe-Web-App-11.png)
+![](./assets/Wireframe-Web-App-12.png)
+![](./assets/Wireframe-Web-App-13.png)
+![](./assets/Wireframe-Web-App-14.png)
+- **Personalización y Soporte Técnico:** La configuración está categorizada por bloques lógicos (seguridad, notificaciones, hogar) para facilitar la navegación. La sección de soporte ofrece múltiples canales de ayuda, reduciendo la fricción en caso de fallos técnicos.
+
+![](./assets/Wireframe-Web-App-15.png)
+![](./assets/Wireframe-Web-App-16.png)
+![](./assets/Wireframe-Web-App-17.png)
+![](./assets/Wireframe-Web-App-18.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
