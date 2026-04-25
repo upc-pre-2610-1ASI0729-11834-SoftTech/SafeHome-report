@@ -786,12 +786,37 @@ habitantes.
 Contenido de la sección.
 
 ## 2.3. Needfinding
-
-Contenido de la sección.
-
 ### 2.3.1. User Personas
 
-Contenido de la sección.
+<p align="center">
+  <img src="assets/segmento1.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/semento1_1.png" width="400"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="assets/segmento2.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/segmento2_1.png" width="400"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="assets/segmento3.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/segmento3_1.png" width="400"/>
+</p>
 
 ### 2.3.2. User Task Matrix
 
