@@ -859,8 +859,9 @@ Contenido de la sección.
 
 ### Mapa de viaje: Jóvenes Adultos Independientes
 
-![User Journey Map - Jóvenes Adultos Independientes](../assets/empathy3.png)
-
+<p align="center">
+  <img src="assets/empathy3.png" width="500"/>
+</p> 
 Este ecosistema integra una arquitectura IoT con el viaje emocional del usuario. Todo inicia 
 cuando el estrés por la inseguridad impulsa al cliente a registrarse en la App y vincular 
 sensores mediante Google Cloud, transformando la ansiedad inicial en alivio gracias a una 
@@ -876,8 +877,9 @@ en reportes de valor que generan confianza y fomentan la recomendación del serv
 
 ### Mapa de viaje: Familias Urbanas
 
-![User Journey Map - Familias Urbanas](../assets/empathy2.png)
-
+<p align="center">
+  <img src="assets/empathy2.png" width="250"/>
+</p> 
 Este mapa de viaje para Familias Urbanas se enfoca en la protección del hogar y la 
 privacidad, complementando el flujo técnico anterior con las siguientes etapas:
 
@@ -901,8 +903,9 @@ privacidad, complementando el flujo técnico anterior con las siguientes etapas:
 
 ### Mapa de viaje: Propietarios de inmuebles en alquiler
 
-![User Journey Map - Propietarios de Inmuebles](../assets/empathy1.png)
-
+<p align="center">
+  <img src="assets/empathy3.png" width="250"/>
+</p> 
 Este esquema detalla el ciclo operativo de gestión, que representa la interacción cotidiana 
 y lógica del usuario con la plataforma una vez superada la instalación. El proceso comienza 
 con las etapas de Acceso y Supervisión, donde el usuario entra al sistema con una mentalidad 
